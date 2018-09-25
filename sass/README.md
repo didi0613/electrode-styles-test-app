@@ -4,7 +4,7 @@
 
 ## Demo
 
-![Alt text](../preview/css-modules.png?raw=true "Title")
+![Alt text](../preview/sass.png?raw=true "Title")
 
 ## License
 
