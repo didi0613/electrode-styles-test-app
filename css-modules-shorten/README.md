@@ -1,23 +1,14 @@
 # css-sample [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> 
 
-## Installation
+>
 
-```sh
-$ npm install --save css-sample
-```
+## Demo
 
-## Usage
+![Alt text](../preview/css-modules-shorten.png?raw=true "Title")
 
-```js
-var cssSample = require('css-sample');
-
-cssSample('Rainbow');
-```
 ## License
 
 Apache-2.0 © [Sheng Di]()
-
 
 [npm-image]: https://badge.fury.io/js/css-sample.svg
 [npm-url]: https://npmjs.org/package/css-sample
