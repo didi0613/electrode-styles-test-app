@@ -58,7 +58,6 @@ module.exports = {
       module: webappPlugin(),
       options: {
         pageTitle: "css-sample",
-        serverSideRendering: false,
         insertTokenIds: false, // Set true to get tokens in index.html for debugging
         paths: {
           "/{args*}": {

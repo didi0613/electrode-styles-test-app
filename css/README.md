@@ -1,22 +1,16 @@
 # css-sample [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
->
+## Description
 
-## Installation
+This is a pure css demo for testing electrode archetype styles webpack configurations.
 
-```sh
-$ npm install --save css-sample
-```
+This demo includes features:
 
-## Usage
+- CSS3 transition styles
+- postcss-import to to inline @import rules content
+- autoprefixer for browser compatibility
 
-```js
-var cssSample = require("css-sample");
-
-cssSample("Rainbow");
-```
-
-## Preview
+## Demo
 
 ![Alt text](../preview/css.png?raw=true "Title")
 

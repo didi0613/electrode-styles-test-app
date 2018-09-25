@@ -56,14 +56,6 @@ class Home extends React.Component {
             </div>
           </div>
           <div className="box">
-            <div className="five">
-              <kbd>position</kbd>
-            </div>
-          </div>
-          <div className="box">
-            <img src="https://html5book.ru/wp-content/uploads/2016/01/css3-filters.jpg" />
-          </div>
-          <div className="box">
             <div className="six">
               <kbd>background-position</kbd>
             </div>
