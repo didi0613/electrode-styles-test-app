@@ -129,10 +129,10 @@
    react: 16.x
 '@octokit/rest':
  _:
-  ^15.2.6: 15.12.0
- 15.12.0:
-  $: sha512-5wRag4kHRkp0JDo++L9x9FkDlHEALbLnbSede16D8u+a2/t+gX32uhDs8cukVLyyrZR79nmh1lNpxZmffwoNoQ==
-  _: 'https://registry.npmjs.org/@octokit/rest/-/rest-15.12.0.tgz'
+  ^15.2.6: 15.12.1
+ 15.12.1:
+  $: sha512-Nn3o2iVHHWNbw8MSOWTa67/6N1e7muaDWVMWr3FXUDSlMzB3lXlr6EdO1hwfUzpmZAkNc1rFN4y0tuy38gtd+A==
+  _: 'https://registry.npmjs.org/@octokit/rest/-/rest-15.12.1.tgz'
   dependencies:
    before-after-hook: ^1.1.0
    btoa-lite: ^1.0.0
@@ -167,174 +167,170 @@
    array-from: ^2.1.1
 '@types/node':
  _:
-  '*': 10.11.0
- 10.11.0:
-  $: sha512-R4Dvw6KjSYn/SpvjRchBOwXr14vVVcFXCtnM3f0aLvlJS8a599rrcEoihcP2/+Z/f75E5GNPd4aWM7j1yei9og==
-  _: 'https://registry.npmjs.org/@types/node/-/node-10.11.0.tgz'
+  '*': 10.11.2
+ 10.11.2:
+  $: sha512-XubfQDIg88PGJ7netQPf3QOKHF7Xht4WXGtg5W7cGBeQs9ETbYKwfchR9o+tRRA9iLTQ7nAre85M205JbYsjJA==
+  _: 'https://registry.npmjs.org/@types/node/-/node-10.11.2.tgz'
 '@webassemblyjs/ast':
  _:
-  1.7.6: 1.7.6
- 1.7.6:
-  $: sha512-8nkZS48EVsMUU0v6F1LCIOw4RYWLm2plMtbhFTjNgeXmsTNLuU3xTRtnljt9BFQB+iPbLRobkNrCWftWnNC7wQ==
-  _: 'https://registry.npmjs.org/@webassemblyjs/ast/-/ast-1.7.6.tgz'
+  1.7.8: 1.7.8
+ 1.7.8:
+  $: sha512-dOrtdtEyB8sInpl75yLPNksY4sRl0j/+t6aHyB/YA+ab9hV3Fo7FmG12FHzP+2MvWVAJtDb+6eXR5EZbZJ+uVg==
+  _: 'https://registry.npmjs.org/@webassemblyjs/ast/-/ast-1.7.8.tgz'
   dependencies:
-   '@webassemblyjs/helper-module-context': 1.7.6
-   '@webassemblyjs/helper-wasm-bytecode': 1.7.6
-   '@webassemblyjs/wast-parser': 1.7.6
-   mamacro: ^0.0.3
+   '@webassemblyjs/helper-module-context': 1.7.8
+   '@webassemblyjs/helper-wasm-bytecode': 1.7.8
+   '@webassemblyjs/wast-parser': 1.7.8
 '@webassemblyjs/floating-point-hex-parser':
  _:
-  1.7.6: 1.7.6
- 1.7.6:
-  $: sha512-VBOZvaOyBSkPZdIt5VBMg3vPWxouuM13dPXGWI1cBh3oFLNcFJ8s9YA7S9l4mPI7+Q950QqOmqj06oa83hNWBA==
-  _: 'https://registry.npmjs.org/@webassemblyjs/floating-point-hex-parser/-/floating-point-hex-parser-1.7.6.tgz'
+  1.7.8: 1.7.8
+ 1.7.8:
+  $: sha512-kn2zNKGsbql5i56VAgRYkpG+VazqHhQQZQycT2uXAazrAEDs23gy+Odkh5VblybjnwX2/BITkDtNmSO76hdIvQ==
+  _: 'https://registry.npmjs.org/@webassemblyjs/floating-point-hex-parser/-/floating-point-hex-parser-1.7.8.tgz'
 '@webassemblyjs/helper-api-error':
  _:
-  1.7.6: 1.7.6
- 1.7.6:
-  $: sha512-SCzhcQWHXfrfMSKcj8zHg1/kL9kb3aa5TN4plc/EREOs5Xop0ci5bdVBApbk2yfVi8aL+Ly4Qpp3/TRAUInjrg==
-  _: 'https://registry.npmjs.org/@webassemblyjs/helper-api-error/-/helper-api-error-1.7.6.tgz'
+  1.7.8: 1.7.8
+ 1.7.8:
+  $: sha512-xUwxDXsd1dUKArJEP5wWM5zxgCSwZApSOJyP1XO7M8rNUChUDblcLQ4FpzTpWG2YeylMwMl1MlP5Ztryiz1x4g==
+  _: 'https://registry.npmjs.org/@webassemblyjs/helper-api-error/-/helper-api-error-1.7.8.tgz'
 '@webassemblyjs/helper-buffer':
  _:
-  1.7.6: 1.7.6
- 1.7.6:
-  $: sha512-1/gW5NaGsEOZ02fjnFiU8/OEEXU1uVbv2um0pQ9YVL3IHSkyk6xOwokzyqqO1qDZQUAllb+V8irtClPWntbVqw==
-  _: 'https://registry.npmjs.org/@webassemblyjs/helper-buffer/-/helper-buffer-1.7.6.tgz'
+  1.7.8: 1.7.8
+ 1.7.8:
+  $: sha512-WXiIMnuvuwlhWvVOm8xEXU9DnHaa3AgAU0ZPfvY8vO1cSsmYb2WbGbHnMLgs43vXnA7XAob9b56zuZaMkxpCBg==
+  _: 'https://registry.npmjs.org/@webassemblyjs/helper-buffer/-/helper-buffer-1.7.8.tgz'
 '@webassemblyjs/helper-code-frame':
  _:
-  1.7.6: 1.7.6
- 1.7.6:
-  $: sha512-+suMJOkSn9+vEvDvgyWyrJo5vJsWSDXZmJAjtoUq4zS4eqHyXImpktvHOZwXp1XQjO5H+YQwsBgqTQEc0J/5zg==
-  _: 'https://registry.npmjs.org/@webassemblyjs/helper-code-frame/-/helper-code-frame-1.7.6.tgz'
+  1.7.8: 1.7.8
+ 1.7.8:
+  $: sha512-TLQxyD9qGOIdX5LPQOPo0Ernd88U5rHkFb8WAjeMIeA0sPjCHeVPaGqUGGIXjUcblUkjuDAc07bruCcNHUrHDA==
+  _: 'https://registry.npmjs.org/@webassemblyjs/helper-code-frame/-/helper-code-frame-1.7.8.tgz'
   dependencies:
-   '@webassemblyjs/wast-printer': 1.7.6
+   '@webassemblyjs/wast-printer': 1.7.8
 '@webassemblyjs/helper-fsm':
  _:
-  1.7.6: 1.7.6
- 1.7.6:
-  $: sha512-HCS6KN3wgxUihGBW7WFzEC/o8Eyvk0d56uazusnxXthDPnkWiMv+kGi9xXswL2cvfYfeK5yiM17z2K5BVlwypw==
-  _: 'https://registry.npmjs.org/@webassemblyjs/helper-fsm/-/helper-fsm-1.7.6.tgz'
+  1.7.8: 1.7.8
+ 1.7.8:
+  $: sha512-TjK0CnD8hAPkV5mbSp5aWl6SO1+H3WFcjWtixWoy8EMA99YnNzYhpc/WSYWhf7yrhpzkq5tZB0tvLK3Svr3IXA==
+  _: 'https://registry.npmjs.org/@webassemblyjs/helper-fsm/-/helper-fsm-1.7.8.tgz'
 '@webassemblyjs/helper-module-context':
  _:
-  1.7.6: 1.7.6
- 1.7.6:
-  $: sha512-e8/6GbY7OjLM+6OsN7f2krC2qYVNaSr0B0oe4lWdmq5sL++8dYDD1TFbD1TdAdWMRTYNr/Qq7ovXWzia2EbSjw==
-  _: 'https://registry.npmjs.org/@webassemblyjs/helper-module-context/-/helper-module-context-1.7.6.tgz'
-  dependencies:
-   mamacro: ^0.0.3
+  1.7.8: 1.7.8
+ 1.7.8:
+  $: sha512-uCutAKR7Nm0VsFixcvnB4HhAyHouNbj0Dx1p7eRjFjXGGZ+N7ftTaG1ZbWCasAEbtwGj54LP8+lkBZdTCPmLGg==
+  _: 'https://registry.npmjs.org/@webassemblyjs/helper-module-context/-/helper-module-context-1.7.8.tgz'
 '@webassemblyjs/helper-wasm-bytecode':
  _:
-  1.7.6: 1.7.6
- 1.7.6:
-  $: sha512-PzYFCb7RjjSdAOljyvLWVqd6adAOabJW+8yRT+NWhXuf1nNZWH+igFZCUK9k7Cx7CsBbzIfXjJc7u56zZgFj9Q==
-  _: 'https://registry.npmjs.org/@webassemblyjs/helper-wasm-bytecode/-/helper-wasm-bytecode-1.7.6.tgz'
+  1.7.8: 1.7.8
+ 1.7.8:
+  $: sha512-AdCCE3BMW6V34WYaKUmPgVHa88t2Z14P4/0LjLwuGkI0X6pf7nzp0CehzVVk51cKm2ymVXjl9dCG+gR1yhITIQ==
+  _: 'https://registry.npmjs.org/@webassemblyjs/helper-wasm-bytecode/-/helper-wasm-bytecode-1.7.8.tgz'
 '@webassemblyjs/helper-wasm-section':
  _:
-  1.7.6: 1.7.6
- 1.7.6:
-  $: sha512-3GS628ppDPSuwcYlQ7cDCGr4W2n9c4hLzvnRKeuz+lGsJSmc/ADVoYpm1ts2vlB1tGHkjtQMni+yu8mHoMlKlA==
-  _: 'https://registry.npmjs.org/@webassemblyjs/helper-wasm-section/-/helper-wasm-section-1.7.6.tgz'
+  1.7.8: 1.7.8
+ 1.7.8:
+  $: sha512-BkBhYQuzyl4hgTGOKo87Vdw6f9nj8HhI7WYpI0MCC5qFa5ahrAPOGgyETVdnRbv+Rjukl9MxxfDmVcVC435lDg==
+  _: 'https://registry.npmjs.org/@webassemblyjs/helper-wasm-section/-/helper-wasm-section-1.7.8.tgz'
   dependencies:
-   '@webassemblyjs/ast': 1.7.6
-   '@webassemblyjs/helper-buffer': 1.7.6
-   '@webassemblyjs/helper-wasm-bytecode': 1.7.6
-   '@webassemblyjs/wasm-gen': 1.7.6
+   '@webassemblyjs/ast': 1.7.8
+   '@webassemblyjs/helper-buffer': 1.7.8
+   '@webassemblyjs/helper-wasm-bytecode': 1.7.8
+   '@webassemblyjs/wasm-gen': 1.7.8
 '@webassemblyjs/ieee754':
  _:
-  1.7.6: 1.7.6
- 1.7.6:
-  $: sha512-V4cIp0ruyw+hawUHwQLn6o2mFEw4t50tk530oKsYXQhEzKR+xNGDxs/SFFuyTO7X3NzEu4usA3w5jzhl2RYyzQ==
-  _: 'https://registry.npmjs.org/@webassemblyjs/ieee754/-/ieee754-1.7.6.tgz'
+  1.7.8: 1.7.8
+ 1.7.8:
+  $: sha512-tOarWChdG1a3y1yqCX0JMDKzrat5tQe4pV6K/TX19BcXsBLYxFQOL1DEDa5KG9syeyvCrvZ+i1+Mv1ExngvktQ==
+  _: 'https://registry.npmjs.org/@webassemblyjs/ieee754/-/ieee754-1.7.8.tgz'
   dependencies:
    '@xtuc/ieee754': ^1.2.0
 '@webassemblyjs/leb128':
  _:
-  1.7.6: 1.7.6
- 1.7.6:
-  $: sha512-ojdlG8WpM394lBow4ncTGJoIVZ4aAtNOWHhfAM7m7zprmkVcKK+2kK5YJ9Bmj6/ketTtOn7wGSHCtMt+LzqgYQ==
-  _: 'https://registry.npmjs.org/@webassemblyjs/leb128/-/leb128-1.7.6.tgz'
+  1.7.8: 1.7.8
+ 1.7.8:
+  $: sha512-GCYeGPgUFWJiZuP4NICbcyUQNxNLJIf476Ei+K+jVuuebtLpfvwkvYT6iTUE7oZYehhkor4Zz2g7SJ/iZaPudQ==
+  _: 'https://registry.npmjs.org/@webassemblyjs/leb128/-/leb128-1.7.8.tgz'
   dependencies:
    '@xtuc/long': 4.2.1
 '@webassemblyjs/utf8':
  _:
-  1.7.6: 1.7.6
- 1.7.6:
-  $: sha512-oId+tLxQ+AeDC34ELRYNSqJRaScB0TClUU6KQfpB8rNT6oelYlz8axsPhf6yPTg7PBJ/Z5WcXmUYiHEWgbbHJw==
-  _: 'https://registry.npmjs.org/@webassemblyjs/utf8/-/utf8-1.7.6.tgz'
+  1.7.8: 1.7.8
+ 1.7.8:
+  $: sha512-9X+f0VV+xNXW2ujfIRSXBJENGE6Qh7bNVKqu3yDjTFB3ar3nsThsGBBKdTG58aXOm2iUH6v28VIf88ymPXODHA==
+  _: 'https://registry.npmjs.org/@webassemblyjs/utf8/-/utf8-1.7.8.tgz'
 '@webassemblyjs/wasm-edit':
  _:
-  1.7.6: 1.7.6
- 1.7.6:
-  $: sha512-pTNjLO3o41v/Vz9VFLl+I3YLImpCSpodFW77pNoH4agn5I6GgSxXHXtvWDTvYJFty0jSeXZWLEmbaSIRUDlekg==
-  _: 'https://registry.npmjs.org/@webassemblyjs/wasm-edit/-/wasm-edit-1.7.6.tgz'
+  1.7.8: 1.7.8
+ 1.7.8:
+  $: sha512-6D3Hm2gFixrfyx9XjSON4ml1FZTugqpkIz5Awvrou8fnpyprVzcm4X8pyGRtA2Piixjl3DqmX/HB1xdWyE097A==
+  _: 'https://registry.npmjs.org/@webassemblyjs/wasm-edit/-/wasm-edit-1.7.8.tgz'
   dependencies:
-   '@webassemblyjs/ast': 1.7.6
-   '@webassemblyjs/helper-buffer': 1.7.6
-   '@webassemblyjs/helper-wasm-bytecode': 1.7.6
-   '@webassemblyjs/helper-wasm-section': 1.7.6
-   '@webassemblyjs/wasm-gen': 1.7.6
-   '@webassemblyjs/wasm-opt': 1.7.6
-   '@webassemblyjs/wasm-parser': 1.7.6
-   '@webassemblyjs/wast-printer': 1.7.6
+   '@webassemblyjs/ast': 1.7.8
+   '@webassemblyjs/helper-buffer': 1.7.8
+   '@webassemblyjs/helper-wasm-bytecode': 1.7.8
+   '@webassemblyjs/helper-wasm-section': 1.7.8
+   '@webassemblyjs/wasm-gen': 1.7.8
+   '@webassemblyjs/wasm-opt': 1.7.8
+   '@webassemblyjs/wasm-parser': 1.7.8
+   '@webassemblyjs/wast-printer': 1.7.8
 '@webassemblyjs/wasm-gen':
  _:
-  1.7.6: 1.7.6
- 1.7.6:
-  $: sha512-mQvFJVumtmRKEUXMohwn8nSrtjJJl6oXwF3FotC5t6e2hlKMh8sIaW03Sck2MDzw9xPogZD7tdP5kjPlbH9EcQ==
-  _: 'https://registry.npmjs.org/@webassemblyjs/wasm-gen/-/wasm-gen-1.7.6.tgz'
+  1.7.8: 1.7.8
+ 1.7.8:
+  $: sha512-a7O/wE6eBeVKKUYgpMK7NOHmMADD85rSXLe3CqrWRDwWff5y3cSVbzpN6Qv3z6C4hdkpq9qyij1Ga1kemOZGvQ==
+  _: 'https://registry.npmjs.org/@webassemblyjs/wasm-gen/-/wasm-gen-1.7.8.tgz'
   dependencies:
-   '@webassemblyjs/ast': 1.7.6
-   '@webassemblyjs/helper-wasm-bytecode': 1.7.6
-   '@webassemblyjs/ieee754': 1.7.6
-   '@webassemblyjs/leb128': 1.7.6
-   '@webassemblyjs/utf8': 1.7.6
+   '@webassemblyjs/ast': 1.7.8
+   '@webassemblyjs/helper-wasm-bytecode': 1.7.8
+   '@webassemblyjs/ieee754': 1.7.8
+   '@webassemblyjs/leb128': 1.7.8
+   '@webassemblyjs/utf8': 1.7.8
 '@webassemblyjs/wasm-opt':
  _:
-  1.7.6: 1.7.6
- 1.7.6:
-  $: sha512-go44K90fSIsDwRgtHhX14VtbdDPdK2sZQtZqUcMRvTojdozj5tLI0VVJAzLCfz51NOkFXezPeVTAYFqrZ6rI8Q==
-  _: 'https://registry.npmjs.org/@webassemblyjs/wasm-opt/-/wasm-opt-1.7.6.tgz'
+  1.7.8: 1.7.8
+ 1.7.8:
+  $: sha512-3lbQ0PT81NHCdi1sR/7+SNpZadM4qYcTSr62nFFAA7e5lFwJr14M1Gi+A/Y3PgcDWOHYjsaNGPpPU0H03N6Blg==
+  _: 'https://registry.npmjs.org/@webassemblyjs/wasm-opt/-/wasm-opt-1.7.8.tgz'
   dependencies:
-   '@webassemblyjs/ast': 1.7.6
-   '@webassemblyjs/helper-buffer': 1.7.6
-   '@webassemblyjs/wasm-gen': 1.7.6
-   '@webassemblyjs/wasm-parser': 1.7.6
+   '@webassemblyjs/ast': 1.7.8
+   '@webassemblyjs/helper-buffer': 1.7.8
+   '@webassemblyjs/wasm-gen': 1.7.8
+   '@webassemblyjs/wasm-parser': 1.7.8
 '@webassemblyjs/wasm-parser':
  _:
-  1.7.6: 1.7.6
- 1.7.6:
-  $: sha512-t1T6TfwNY85pDA/HWPA8kB9xA4sp9ajlRg5W7EKikqrynTyFo+/qDzIpvdkOkOGjlS6d4n4SX59SPuIayR22Yg==
-  _: 'https://registry.npmjs.org/@webassemblyjs/wasm-parser/-/wasm-parser-1.7.6.tgz'
+  1.7.8: 1.7.8
+ 1.7.8:
+  $: sha512-rZ/zlhp9DHR/05zh1MbAjT2t624sjrPP/OkJCjXqzm7ynH+nIdNcn9Ixc+qzPMFXhIrk0rBoQ3to6sEIvHh9jQ==
+  _: 'https://registry.npmjs.org/@webassemblyjs/wasm-parser/-/wasm-parser-1.7.8.tgz'
   dependencies:
-   '@webassemblyjs/ast': 1.7.6
-   '@webassemblyjs/helper-api-error': 1.7.6
-   '@webassemblyjs/helper-wasm-bytecode': 1.7.6
-   '@webassemblyjs/ieee754': 1.7.6
-   '@webassemblyjs/leb128': 1.7.6
-   '@webassemblyjs/utf8': 1.7.6
+   '@webassemblyjs/ast': 1.7.8
+   '@webassemblyjs/helper-api-error': 1.7.8
+   '@webassemblyjs/helper-wasm-bytecode': 1.7.8
+   '@webassemblyjs/ieee754': 1.7.8
+   '@webassemblyjs/leb128': 1.7.8
+   '@webassemblyjs/utf8': 1.7.8
 '@webassemblyjs/wast-parser':
  _:
-  1.7.6: 1.7.6
- 1.7.6:
-  $: sha512-1MaWTErN0ziOsNUlLdvwS+NS1QWuI/kgJaAGAMHX8+fMJFgOJDmN/xsG4h/A1Gtf/tz5VyXQciaqHZqp2q0vfg==
-  _: 'https://registry.npmjs.org/@webassemblyjs/wast-parser/-/wast-parser-1.7.6.tgz'
+  1.7.8: 1.7.8
+ 1.7.8:
+  $: sha512-Q/zrvtUvzWuSiJMcSp90fi6gp2nraiHXjTV2VgAluVdVapM4gy1MQn7akja2p6eSBDQpKJPJ6P4TxRkghRS5dg==
+  _: 'https://registry.npmjs.org/@webassemblyjs/wast-parser/-/wast-parser-1.7.8.tgz'
   dependencies:
-   '@webassemblyjs/ast': 1.7.6
-   '@webassemblyjs/floating-point-hex-parser': 1.7.6
-   '@webassemblyjs/helper-api-error': 1.7.6
-   '@webassemblyjs/helper-code-frame': 1.7.6
-   '@webassemblyjs/helper-fsm': 1.7.6
+   '@webassemblyjs/ast': 1.7.8
+   '@webassemblyjs/floating-point-hex-parser': 1.7.8
+   '@webassemblyjs/helper-api-error': 1.7.8
+   '@webassemblyjs/helper-code-frame': 1.7.8
+   '@webassemblyjs/helper-fsm': 1.7.8
    '@xtuc/long': 4.2.1
-   mamacro: ^0.0.3
 '@webassemblyjs/wast-printer':
  _:
-  1.7.6: 1.7.6
- 1.7.6:
-  $: sha512-vHdHSK1tOetvDcl1IV1OdDeGNe/NDDQ+KzuZHMtqTVP1xO/tZ/IKNpj5BaGk1OYFdsDWQqb31PIwdEyPntOWRQ==
-  _: 'https://registry.npmjs.org/@webassemblyjs/wast-printer/-/wast-printer-1.7.6.tgz'
+  1.7.8: 1.7.8
+ 1.7.8:
+  $: sha512-GllIthRtwTxRDAURRNXscu7Napzmdf1jt1gpiZiK/QN4fH0lSGs3OTmvdfsMNP7tqI4B3ZtfaaWRlNIQug6Xyg==
+  _: 'https://registry.npmjs.org/@webassemblyjs/wast-printer/-/wast-printer-1.7.8.tgz'
   dependencies:
-   '@webassemblyjs/ast': 1.7.6
-   '@webassemblyjs/wast-parser': 1.7.6
+   '@webassemblyjs/ast': 1.7.8
+   '@webassemblyjs/wast-parser': 1.7.8
    '@xtuc/long': 4.2.1
 '@xtuc/ieee754':
  _:
@@ -372,13 +368,6 @@ accept:
 accepts:
  _:
   1.3.3: 1.3.3
-  '~1.3.4,~1.3.5': 1.3.5
- 1.3.5:
-  $: sha1-63d99gEXI6OxTopywIBcjoZ0a9I=
-  _: 'https://registry.npmjs.org/accepts/-/accepts-1.3.5.tgz'
-  dependencies:
-   mime-types: ~2.1.18
-   negotiator: 0.6.1
  1.3.3:
   $: sha1-w8p0NJOGSMPg2cHjKN1otiLChMo=
   _: 'https://registry.npmjs.org/accepts/-/accepts-1.3.3.tgz'
@@ -390,10 +379,10 @@ acorn:
   ^3.0.4: 3.3.0
   ^4.0.3: 4.0.13
   '^5.0.0,^5.5.0,^5.5.3,^5.6.2': 5.7.3
-  ^6.0.1: 6.0.1
- 6.0.1:
-  $: sha512-SiwgrRuRD2D1R6qjwwoopKcCTkmmIWjy1M15Wv+Nk/7VUsBad4P8GOPft2t6coDZG0TuR5dq9o1v0g8wo7F6+A==
-  _: 'https://registry.npmjs.org/acorn/-/acorn-6.0.1.tgz'
+  ^6.0.1: 6.0.2
+ 6.0.2:
+  $: sha512-GXmKIvbrN3TV7aVqAzVFaMW8F8wzVX7voEBRO3bDA64+EX37YSayggRJP5Xig6HYHBkWKpFg9W5gg6orklubhg==
+  _: 'https://registry.npmjs.org/acorn/-/acorn-6.0.2.tgz'
  5.7.3:
   $: sha512-T/zvzYRfbVojPWahDsE5evJdHb3oJoQfFbsrKM7w5Zcs++Tr257tia3BmMP8XYVjp1S9RZXQMh7gao96BlqZOw==
   _: 'https://registry.npmjs.org/acorn/-/acorn-5.7.3.tgz'
@@ -671,16 +660,6 @@ array-find-index:
  1.0.2:
   $: sha1-3wEKoSh+Fku9pvlyOwqWoexBh6E=
   _: 'https://registry.npmjs.org/array-find-index/-/array-find-index-1.0.2.tgz'
-array-flatten:
- _:
-  1.1.1: 1.1.1
-  ^2.1.0: 2.1.1
- 2.1.1:
-  $: sha1-Qmu52oQJDBg42BLIFQryCoMx4pY=
-  _: 'https://registry.npmjs.org/array-flatten/-/array-flatten-2.1.1.tgz'
- 1.1.1:
-  $: sha1-ml9pkFGx5wczKPKgCJaLZOopVdI=
-  _: 'https://registry.npmjs.org/array-flatten/-/array-flatten-1.1.1.tgz'
 array-from:
  _:
   ^2.1.1: 2.1.1
@@ -782,7 +761,7 @@ assert-plus:
   _: 'https://registry.npmjs.org/assert-plus/-/assert-plus-1.0.0.tgz'
 assertion-error:
  _:
-  ^1.0.1: 1.1.0
+  ^1.1.0: 1.1.0
  1.1.0:
   $: sha512-jgsaNduz+ndvGyFt3uSuWqvy4lCnIJiovtouQN5JZHOKCS2QuhEdbcQHFhVksz2N2U9hXJo8odG7ETyWlEeuDw==
   _: 'https://registry.npmjs.org/assertion-error/-/assertion-error-1.1.0.tgz'
@@ -800,7 +779,7 @@ astral-regex:
   _: 'https://registry.npmjs.org/astral-regex/-/astral-regex-1.0.0.tgz'
 async:
  _:
-  '1.x,^1.5.0,^1.5.2': 1.5.2
+  '1.x,^1.5.0': 1.5.2
   '^2.0.0,^2.1.2,^2.1.4,^2.4.0,^2.4.1,^2.5.0': 2.6.1
   ~1.0.0: 1.0.0
  2.6.1:
@@ -865,6 +844,17 @@ atob:
 autoprefixer:
  _:
   ^8.6.5: 8.6.5
+  ^9.1.5: 9.1.5
+ 9.1.5:
+  $: sha512-kk4Zb6RUc58ld7gdosERHMF3DzIYJc2fp5sX46qEsGXQQy5bXsu8qyLjoxuY1NuQ/cJuCYnx99BfjwnRggrYIw==
+  _: 'https://registry.npmjs.org/autoprefixer/-/autoprefixer-9.1.5.tgz'
+  dependencies:
+   browserslist: ^4.1.0
+   caniuse-lite: ^1.0.30000884
+   normalize-range: ^0.1.2
+   num2fraction: ^1.2.2
+   postcss: ^7.0.2
+   postcss-value-parser: ^3.2.3
  8.6.5:
   $: sha512-PLWJN3Xo/rycNkx+mp8iBDMTm3FeWe4VmYaZDSqL5QQB9sLsQkG5k8n+LNDFnhh9kdq2K+egL/icpctOmDHwig==
   _: 'https://registry.npmjs.org/autoprefixer/-/autoprefixer-8.6.5.tgz'
@@ -1725,7 +1715,7 @@ babel-register:
    source-map-support: ^0.4.15
 babel-runtime:
  _:
-  '^6.18.0,^6.2.0,^6.22.0,^6.26.0': 6.26.0
+  '^6.0.0,^6.18.0,^6.2.0,^6.22.0,^6.26.0': 6.26.0
  6.26.0:
   $: sha1-llxwWGaOgrVde/4E/yM3vItWR/4=
   _: 'https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.26.0.tgz'
@@ -1835,7 +1825,7 @@ base64id:
   _: 'https://registry.npmjs.org/base64id/-/base64id-1.0.0.tgz'
 batch:
  _:
-  0.6.1: 0.6.1
+  ^0.6.1: 0.6.1
  0.6.1:
   $: sha1-3DQxT05nkxgJP8dgJyUl+UvyXBY=
   _: 'https://registry.npmjs.org/batch/-/batch-0.6.1.tgz'
@@ -1947,34 +1937,21 @@ bn.js:
   _: 'https://registry.npmjs.org/bn.js/-/bn.js-4.11.8.tgz'
 body-parser:
  _:
-  '1.18.2,^1.16.1': 1.18.2
- 1.18.2:
-  $: sha1-h2eKGdhLR9hZuDGZvVm84iKxBFQ=
-  _: 'https://registry.npmjs.org/body-parser/-/body-parser-1.18.2.tgz'
+  ^1.16.1: 1.18.3
+ 1.18.3:
+  $: sha1-WykhmP/dVTs6DyDe0FkrlWlVyLQ=
+  _: 'https://registry.npmjs.org/body-parser/-/body-parser-1.18.3.tgz'
   dependencies:
    bytes: 3.0.0
    content-type: ~1.0.4
    debug: 2.6.9
-   depd: ~1.1.1
-   http-errors: ~1.6.2
-   iconv-lite: 0.4.19
+   depd: ~1.1.2
+   http-errors: ~1.6.3
+   iconv-lite: 0.4.23
    on-finished: ~2.3.0
-   qs: 6.5.1
-   raw-body: 2.3.2
-   type-is: ~1.6.15
-bonjour:
- _:
-  ^3.5.0: 3.5.0
- 3.5.0:
-  $: sha1-jokKGD2O6aI5OzhExpGkK897yfU=
-  _: 'https://registry.npmjs.org/bonjour/-/bonjour-3.5.0.tgz'
-  dependencies:
-   array-flatten: ^2.1.0
-   deep-equal: ^1.0.1
-   dns-equal: ^1.0.0
-   dns-txt: ^2.0.2
-   multicast-dns: ^6.0.1
-   multicast-dns-service-types: ^1.1.0
+   qs: 6.5.2
+   raw-body: 2.3.3
+   type-is: ~1.6.16
 boolbase:
  _:
   '^1.0.0,~1.0.0': 1.0.0
@@ -2156,7 +2133,7 @@ browserify-zlib:
 browserslist:
  _:
   '^3.2.6,^3.2.8': 3.2.8
-  ^4.0.0: 4.1.1
+  '^4.0.0,^4.1.0': 4.1.1
  4.1.1:
   $: sha512-VBorw+tgpOtZ1BYhrVSVTzTt/3+vSE3eFUh0N2GCFK1HffceOaf32YS/bs6WiFhjDAblAFrx85jMy3BG9fBK2Q==
   _: 'https://registry.npmjs.org/browserslist/-/browserslist-4.1.1.tgz'
@@ -2227,12 +2204,6 @@ buffer-from:
  1.1.1:
   $: sha512-MQcXEUbCKtEo7bhqEs6560Hyd4XaovZlO/k9V3hjVUF/zwW7KBVdSK4gIt/bzwS9MbR5qob+F5jusZsb0YQK2A==
   _: 'https://registry.npmjs.org/buffer-from/-/buffer-from-1.1.1.tgz'
-buffer-indexof:
- _:
-  ^1.0.0: 1.1.1
- 1.1.1:
-  $: sha512-4/rOEg86jivtPTeOUUT61jJO1Ya1TrR/OkqCSZDyq84WJh3LuuiphBYJN+fm5xufIk4XAFcEwte/8WzC8If/1g==
-  _: 'https://registry.npmjs.org/buffer-indexof/-/buffer-indexof-1.1.1.tgz'
 buffer-indexof-polyfill:
  _:
   ~1.0.0: 1.0.1
@@ -2284,6 +2255,25 @@ bytes:
 cacache:
  _:
   ^10.0.4: 10.0.4
+  ^11.2.0: 11.2.0
+ 11.2.0:
+  $: sha512-IFWl6lfK6wSeYCHUXh+N1lY72UDrpyrYQJNIVQf48paDuWbv5RbAtJYf/4gUQFObTCHZwdZ5sI8Iw7nqwP6nlQ==
+  _: 'https://registry.npmjs.org/cacache/-/cacache-11.2.0.tgz'
+  dependencies:
+   bluebird: ^3.5.1
+   chownr: ^1.0.1
+   figgy-pudding: ^3.1.0
+   glob: ^7.1.2
+   graceful-fs: ^4.1.11
+   lru-cache: ^4.1.3
+   mississippi: ^3.0.0
+   mkdirp: ^0.5.1
+   move-concurrently: ^1.0.1
+   promise-inflight: ^1.0.1
+   rimraf: ^2.6.2
+   ssri: ^6.0.0
+   unique-filename: ^1.1.0
+   y18n: ^4.0.0
  10.0.4:
   $: sha512-Dph0MzuH+rTQzGPNT9fAnrPmMmjKfST6trxJeK7NQuHRaVw24VzPRWTmg9MpcwOVQZO0E1FBICUlFeNaKPIfHA==
   _: 'https://registry.npmjs.org/cacache/-/cacache-10.0.4.tgz'
@@ -2386,10 +2376,10 @@ caniuse-api:
    lodash.uniq: ^4.5.0
 caniuse-lite:
  _:
-  '^1.0.0,^1.0.30000844,^1.0.30000864,^1.0.30000865,^1.0.30000884': 1.0.30000887
- 1.0.30000887:
-  $: sha512-AHpONWuGFWO8yY9igdXH94tikM6ERS84286r0cAMAXYFtJBk76lhiMhtCxBJNBZsD6hzlvpWZ2AtbVFEkf4JQA==
-  _: 'https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30000887.tgz'
+  '^1.0.0,^1.0.30000844,^1.0.30000864,^1.0.30000865,^1.0.30000884': 1.0.30000888
+ 1.0.30000888:
+  $: sha512-vftg+5p/lPsQGpnhSo/yBuYL36ai/cyjLvU3dOPJY1kkKrekLWIy8SLm+wzjX0hpCUdFTasC4/ZT7uqw4rKOnQ==
+  _: 'https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30000888.tgz'
 capture-exit:
  _:
   ^1.2.0: 1.2.0
@@ -2430,17 +2420,17 @@ catbox-memory:
    hoek: 4.x.x
 chai:
  _:
-  ^4.0.0: 4.1.2
- 4.1.2:
-  $: sha1-D2RYS6ZC8PKs4oBiefTwbKI61zw=
-  _: 'https://registry.npmjs.org/chai/-/chai-4.1.2.tgz'
+  ^4.0.0: 4.2.0
+ 4.2.0:
+  $: sha512-XQU3bhBukrOsQCuwZndwGcCVQHyZi53fQ6Ys1Fym7E4olpIqqZZhhoFJoaKVvV17lWQoXYwgWN2nF5crA8J2jw==
+  _: 'https://registry.npmjs.org/chai/-/chai-4.2.0.tgz'
   dependencies:
-   assertion-error: ^1.0.1
-   check-error: ^1.0.1
-   deep-eql: ^3.0.0
+   assertion-error: ^1.1.0
+   check-error: ^1.0.2
+   deep-eql: ^3.0.1
    get-func-name: ^2.0.0
-   pathval: ^1.0.0
-   type-detect: ^4.0.0
+   pathval: ^1.1.0
+   type-detect: ^4.0.5
 chai-as-promised:
  _:
   ^7.1.1: 7.1.1
@@ -2509,7 +2499,7 @@ charenc:
   _: 'https://registry.npmjs.org/charenc/-/charenc-0.0.2.tgz'
 check-error:
  _:
-  '^1.0.1,^1.0.2': 1.0.2
+  ^1.0.2: 1.0.2
  1.0.2:
   $: sha1-V00xLt2Iu13YkS6Sht1sCu1KrII=
   _: 'https://registry.npmjs.org/check-error/-/check-error-1.0.2.tgz'
@@ -2539,7 +2529,7 @@ cheerio:
 chokidar:
  _:
   '^1.4.1,^1.6.1': 1.7.0
-  '^2.0.0,^2.0.2': 2.0.4
+  ^2.0.2: 2.0.4
  2.0.4:
   $: sha512-z9n7yt9rOvIJrMhvDtDictKrkFHeihkNl6uWMmZlmL6tJtX9Cs+87oK+teBx+JIgzvbX3yZHT3eF8vpbDxHJXQ==
   _: 'https://registry.npmjs.org/chokidar/-/chokidar-2.0.4.tgz'
@@ -2856,28 +2846,6 @@ component-inherit:
  0.0.3:
   $: sha1-ZF/ErfWLcrZJ1crmUTVhnbJv8UM=
   _: 'https://registry.npmjs.org/component-inherit/-/component-inherit-0.0.3.tgz'
-compressible:
- _:
-  ~2.0.14: 2.0.15
- 2.0.15:
-  $: sha512-4aE67DL33dSW9gw4CI2H/yTxqHLNcxp0yS6jB+4h+wr3e43+1z7vm0HU9qXOH8j+qjKuL8+UtkOxYQSMq60Ylw==
-  _: 'https://registry.npmjs.org/compressible/-/compressible-2.0.15.tgz'
-  dependencies:
-   mime-db: '>= 1.36.0 < 2'
-compression:
- _:
-  ^1.5.2: 1.7.3
- 1.7.3:
-  $: sha512-HSjyBG5N1Nnz7tF2+O7A9XUhyjru71/fwgNb7oIsEVHR0WShfs2tIS/EySLgiTe98aOK18YDlMXpzjCXY/n9mg==
-  _: 'https://registry.npmjs.org/compression/-/compression-1.7.3.tgz'
-  dependencies:
-   accepts: ~1.3.5
-   bytes: 3.0.0
-   compressible: ~2.0.14
-   debug: 2.6.9
-   on-headers: ~1.0.1
-   safe-buffer: 5.1.2
-   vary: ~1.1.2
 concat-map:
  _:
   0.0.1: 0.0.1
@@ -2925,12 +2893,6 @@ connect:
    finalhandler: 1.1.0
    parseurl: ~1.3.2
    utils-merge: 1.0.1
-connect-history-api-fallback:
- _:
-  ^1.3.0: 1.5.0
- 1.5.0:
-  $: sha1-sGhzk0vF40T+9hGhlqb6rgruAVo=
-  _: 'https://registry.npmjs.org/connect-history-api-fallback/-/connect-history-api-fallback-1.5.0.tgz'
 console-browserify:
  _:
   ^1.1.0: 1.1.0
@@ -2959,12 +2921,6 @@ content:
   _: 'https://registry.npmjs.org/content/-/content-3.0.7.tgz'
   dependencies:
    boom: 5.x.x
-content-disposition:
- _:
-  0.5.2: 0.5.2
- 0.5.2:
-  $: sha1-DPaLud318r55YcOoUXjLhdunjLQ=
-  _: 'https://registry.npmjs.org/content-disposition/-/content-disposition-0.5.2.tgz'
 content-type:
  _:
   ~1.0.4: 1.0.4
@@ -2985,12 +2941,6 @@ cookie:
  0.3.1:
   $: sha1-5+Ch+e9DtMi6klxcWpboBtFoc7s=
   _: 'https://registry.npmjs.org/cookie/-/cookie-0.3.1.tgz'
-cookie-signature:
- _:
-  1.0.6: 1.0.6
- 1.0.6:
-  $: sha1-4wOogrNCzD7oylE6eZmXNNqzriw=
-  _: 'https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.6.tgz'
 copy-concurrently:
  _:
   ^1.0.0: 1.0.5
@@ -3167,12 +3117,12 @@ css-color-names:
   _: 'https://registry.npmjs.org/css-color-names/-/css-color-names-0.0.4.tgz'
 css-declaration-sorter:
  _:
-  ^3.0.0: 3.0.1
- 3.0.1:
-  $: sha512-jH4024SHZ3e0M7ann9VxpFpH3moplRXNz9ZBqvFMZqi09Yo5ARbs2wdPH8GqN9iRTlQynrbGbraNbBxBLei85Q==
-  _: 'https://registry.npmjs.org/css-declaration-sorter/-/css-declaration-sorter-3.0.1.tgz'
+  ^4.0.1: 4.0.1
+ 4.0.1:
+  $: sha512-BcxQSKTSEEQUftYpBVnsH4SF05NTuBokb19/sBt6asXGKZ/6VP7PLG1CBCkFDYOnhXhPh0jMhO6xZ71oYHXHBA==
+  _: 'https://registry.npmjs.org/css-declaration-sorter/-/css-declaration-sorter-4.0.1.tgz'
   dependencies:
-   postcss: ^6.0.0
+   postcss: ^7.0.1
    timsort: ^0.3.0
 css-fork-pocketjoso:
  _:
@@ -3295,18 +3245,6 @@ css-selector-tokenizer:
    cssesc: ^0.1.0
    fastparse: ^1.1.1
    regexpu-core: ^1.0.0
-css-split-webpack-plugin:
- _:
-  ^0.2.0: 0.2.5
- 0.2.5:
-  $: sha512-7WmGs1E71CbBu9Z7o73II2yFWjHFDYYmIMkU36aZLpGTeUH35VDGhNLl4L5uqr9h1/awmpCmE4zUliPVPbrFzw==
-  _: 'https://registry.npmjs.org/css-split-webpack-plugin/-/css-split-webpack-plugin-0.2.5.tgz'
-  dependencies:
-   loader-utils: ^1.1.0
-   postcss: ^6.0.14
-   webpack-sources: ^1.0.2
-  peerDependencies:
-   webpack: '>=1'
 css-tree:
  _:
   1.0.0-alpha.28: 1.0.0-alpha.28
@@ -3363,52 +3301,52 @@ cssesc:
   _: 'https://registry.npmjs.org/cssesc/-/cssesc-0.1.0.tgz'
 cssnano:
  _:
-  ^4.1.0: 4.1.1
- 4.1.1:
-  $: sha512-lexmDEYdXZaavIXOaQjz1FXlQDiHavvQxkmRxb9PLn3o8SXQzlNEL9CZdEjJRdls+9IKikI3BI0Womnd7ap0kA==
-  _: 'https://registry.npmjs.org/cssnano/-/cssnano-4.1.1.tgz'
+  ^4.1.0: 4.1.4
+ 4.1.4:
+  $: sha512-wP0wbOM9oqsek14CiNRYrK9N3w3jgadtGZKHXysgC/OMVpy0KZgWVPdNqODSZbz7txO9Gekr9taOfcCgL0pOOw==
+  _: 'https://registry.npmjs.org/cssnano/-/cssnano-4.1.4.tgz'
   dependencies:
    cosmiconfig: ^5.0.0
-   cssnano-preset-default: ^4.0.1
+   cssnano-preset-default: ^4.0.2
    is-resolvable: ^1.0.0
    postcss: ^7.0.0
 cssnano-preset-default:
  _:
-  ^4.0.1: 4.0.1
- 4.0.1:
-  $: sha512-ZJ4b70JdYwXknE0zGtBoF12wUZ4itgc652ITApw+j+FT6DDGL4ZLjYPnkGAh9cG8uKm2IPVf50RfMrKVbduT9w==
-  _: 'https://registry.npmjs.org/cssnano-preset-default/-/cssnano-preset-default-4.0.1.tgz'
+  ^4.0.2: 4.0.2
+ 4.0.2:
+  $: sha512-zO9PeP84l1E4kbrdyF7NSLtA/JrJY1paX5FHy5+w/ziIXO2kDqDMfJ/mosXkaHHSa3RPiIY3eB6aEgwx3IiGqA==
+  _: 'https://registry.npmjs.org/cssnano-preset-default/-/cssnano-preset-default-4.0.2.tgz'
   dependencies:
-   css-declaration-sorter: ^3.0.0
-   cssnano-util-raw-cache: ^4.0.0
+   css-declaration-sorter: ^4.0.1
+   cssnano-util-raw-cache: ^4.0.1
    postcss: ^7.0.0
-   postcss-calc: ^6.0.0
-   postcss-colormin: ^4.0.0
-   postcss-convert-values: ^4.0.0
-   postcss-discard-comments: ^4.0.0
-   postcss-discard-duplicates: ^4.0.0
-   postcss-discard-empty: ^4.0.0
-   postcss-discard-overridden: ^4.0.0
-   postcss-merge-longhand: ^4.0.0
-   postcss-merge-rules: ^4.0.0
-   postcss-minify-font-values: ^4.0.0
-   postcss-minify-gradients: ^4.0.0
-   postcss-minify-params: ^4.0.0
-   postcss-minify-selectors: ^4.0.0
-   postcss-normalize-charset: ^4.0.0
-   postcss-normalize-display-values: ^4.0.0
-   postcss-normalize-positions: ^4.0.0
-   postcss-normalize-repeat-style: ^4.0.0
-   postcss-normalize-string: ^4.0.0
-   postcss-normalize-timing-functions: ^4.0.0
-   postcss-normalize-unicode: ^4.0.0
-   postcss-normalize-url: ^4.0.0
-   postcss-normalize-whitespace: ^4.0.0
-   postcss-ordered-values: ^4.0.0
-   postcss-reduce-initial: ^4.0.0
-   postcss-reduce-transforms: ^4.0.0
-   postcss-svgo: ^4.0.0
-   postcss-unique-selectors: ^4.0.0
+   postcss-calc: ^6.0.2
+   postcss-colormin: ^4.0.2
+   postcss-convert-values: ^4.0.1
+   postcss-discard-comments: ^4.0.1
+   postcss-discard-duplicates: ^4.0.2
+   postcss-discard-empty: ^4.0.1
+   postcss-discard-overridden: ^4.0.1
+   postcss-merge-longhand: ^4.0.6
+   postcss-merge-rules: ^4.0.2
+   postcss-minify-font-values: ^4.0.2
+   postcss-minify-gradients: ^4.0.1
+   postcss-minify-params: ^4.0.1
+   postcss-minify-selectors: ^4.0.1
+   postcss-normalize-charset: ^4.0.1
+   postcss-normalize-display-values: ^4.0.1
+   postcss-normalize-positions: ^4.0.1
+   postcss-normalize-repeat-style: ^4.0.1
+   postcss-normalize-string: ^4.0.1
+   postcss-normalize-timing-functions: ^4.0.1
+   postcss-normalize-unicode: ^4.0.1
+   postcss-normalize-url: ^4.0.1
+   postcss-normalize-whitespace: ^4.0.1
+   postcss-ordered-values: ^4.1.1
+   postcss-reduce-initial: ^4.0.2
+   postcss-reduce-transforms: ^4.0.1
+   postcss-svgo: ^4.0.1
+   postcss-unique-selectors: ^4.0.1
 cssnano-util-get-arguments:
  _:
   ^4.0.0: 4.0.0
@@ -3423,7 +3361,7 @@ cssnano-util-get-match:
   _: 'https://registry.npmjs.org/cssnano-util-get-match/-/cssnano-util-get-match-4.0.0.tgz'
 cssnano-util-raw-cache:
  _:
-  ^4.0.0: 4.0.1
+  ^4.0.1: 4.0.1
  4.0.1:
   $: sha512-qLuYtWK2b2Dy55I8ZX3ky1Z16WYsx544Q0UWViebptpwn/xDBmog2TLg4f+DBMg1rJ6JDWtn96WHbOKDWt1WQA==
   _: 'https://registry.npmjs.org/cssnano-util-raw-cache/-/cssnano-util-raw-cache-4.0.1.tgz'
@@ -3524,7 +3462,7 @@ dateformat:
    meow: ^3.3.0
 debug:
  _:
-  '*,2.6.9,^2.2.0,^2.3.3,^2.6.6,^2.6.8,^2.6.9': 2.6.9
+  '*,2.6.9,^2.2.0,^2.3.3,^2.6.8,^2.6.9': 2.6.9
   '2.2.0,~2.2.0': 2.2.0
   2.3.3: 2.3.3
   '3.1.0,=3.1.0': 3.1.0
@@ -3582,18 +3520,12 @@ decompress-response:
    mimic-response: ^1.0.0
 deep-eql:
  _:
-  ^3.0.0: 3.0.1
+  ^3.0.1: 3.0.1
  3.0.1:
   $: sha512-+QeIQyN5ZuO+3Uk5DYh6/1eKO0m0YmJFGNmFHGACpf1ClL1nmlV/p4gNgbl2pJGxgXb4faqo6UE+M5ACEMyVcw==
   _: 'https://registry.npmjs.org/deep-eql/-/deep-eql-3.0.1.tgz'
   dependencies:
    type-detect: ^4.0.0
-deep-equal:
- _:
-  ^1.0.1: 1.0.1
- 1.0.1:
-  $: sha1-9dJgKStmDghO/0zbyfCK0yR0SLU=
-  _: 'https://registry.npmjs.org/deep-equal/-/deep-equal-1.0.1.tgz'
 deep-extend:
  _:
   ^0.4.0: 0.4.2
@@ -3610,15 +3542,6 @@ deep-is:
  0.1.3:
   $: sha1-s2nW+128E+7PUk+RsHD+7cNXzzQ=
   _: 'https://registry.npmjs.org/deep-is/-/deep-is-0.1.3.tgz'
-default-gateway:
- _:
-  ^2.6.0: 2.7.2
- 2.7.2:
-  $: sha512-lAc4i9QJR0YHSDFdzeBQKfZ1SRDG3hsJNEkrpcZa8QhBfidLAilT60BDEIVUUGqosFp425KOgB3uYqcnQrWafQ==
-  _: 'https://registry.npmjs.org/default-gateway/-/default-gateway-2.7.2.tgz'
-  dependencies:
-   execa: ^0.10.0
-   ip-regex: ^2.1.0
 default-require-extensions:
  _:
   ^1.0.0: 1.0.0
@@ -3695,14 +3618,10 @@ delegates:
   _: 'https://registry.npmjs.org/delegates/-/delegates-1.0.0.tgz'
 depd:
  _:
-  1.1.1: 1.1.1
-  '~1.1.1,~1.1.2': 1.1.2
+  ~1.1.2: 1.1.2
  1.1.2:
   $: sha1-m81S4UwJd2PnSbJ0xDRu0uVgtak=
   _: 'https://registry.npmjs.org/depd/-/depd-1.1.2.tgz'
- 1.1.1:
-  $: sha1-V4O04cRZ8G+lyif5kfPQbnoxA1k=
-  _: 'https://registry.npmjs.org/depd/-/depd-1.1.1.tgz'
 des.js:
  _:
   ^1.0.0: 1.0.0
@@ -3712,12 +3631,6 @@ des.js:
   dependencies:
    inherits: ^2.0.1
    minimalistic-assert: ^1.0.0
-destroy:
- _:
-  ~1.0.4: 1.0.4
- 1.0.4:
-  $: sha1-l4hXRCxEdJ5CBmE+N5RiBYJqvYA=
-  _: 'https://registry.npmjs.org/destroy/-/destroy-1.0.4.tgz'
 detect-indent:
  _:
   ^4.0.0: 4.0.0
@@ -3732,12 +3645,6 @@ detect-newline:
  2.1.0:
   $: sha1-9B8cEL5LAOh7XxPaaAdZ8sW/0+I=
   _: 'https://registry.npmjs.org/detect-newline/-/detect-newline-2.1.0.tgz'
-detect-node:
- _:
-  ^2.0.3: 2.0.4
- 2.0.4:
-  $: sha512-ZIzRpLJrOj7jjP2miAtgqIfmzbxa4ZOr5jJc601zklsfEx9oTzmmj2nVpIPRpNlRTIh8lc1kyViIY7BWSGNmKw==
-  _: 'https://registry.npmjs.org/detect-node/-/detect-node-2.0.4.tgz'
 di:
  _:
   ^0.0.1: 0.0.1
@@ -3766,29 +3673,6 @@ discontinuous-range:
  1.0.0:
   $: sha1-44Mx8IRLukm5qctxx3FYWqsbxlo=
   _: 'https://registry.npmjs.org/discontinuous-range/-/discontinuous-range-1.0.0.tgz'
-dns-equal:
- _:
-  ^1.0.0: 1.0.0
- 1.0.0:
-  $: sha1-s55/HabrCnW6nBcySzR1PEfgZU0=
-  _: 'https://registry.npmjs.org/dns-equal/-/dns-equal-1.0.0.tgz'
-dns-packet:
- _:
-  ^1.3.1: 1.3.1
- 1.3.1:
-  $: sha512-0UxfQkMhYAUaZI+xrNZOz/as5KgDU0M/fQ9b6SpkyLbk3GEswDi6PADJVaYJradtRVsRIlF1zLyOodbcTCDzUg==
-  _: 'https://registry.npmjs.org/dns-packet/-/dns-packet-1.3.1.tgz'
-  dependencies:
-   ip: ^1.1.0
-   safe-buffer: ^5.0.1
-dns-txt:
- _:
-  ^2.0.2: 2.0.2
- 2.0.2:
-  $: sha1-uR2Ab10nGI5Ks+fRB9iBocxGQrY=
-  _: 'https://registry.npmjs.org/dns-txt/-/dns-txt-2.0.2.tgz'
-  dependencies:
-   buffer-indexof: ^1.0.0
 doctrine:
  _:
   ^2.1.0: 2.1.0
@@ -3973,7 +3857,7 @@ electrode-archetype-opt-karma:
    karma-sonarqube-unit-reporter: 0.0.14
    karma-sourcemap-loader: ^0.3.7
    karma-spec-reporter: 0.0.26
-   karma-webpack: ^4.0.0-rc.1
+   karma-webpack: ^2.0.2
    phantomjs-prebuilt: ^2.1.13
 electrode-archetype-opt-react:
  _:
@@ -4018,6 +3902,7 @@ electrode-archetype-react-app-dev:
   $: local
   _: ../../electrode/packages/electrode-archetype-react-app-dev
   dependencies:
+   autoprefixer: ^9.1.5
    babel-cli: ^6.4.5
    babel-core: ^6.4.0
    babel-eslint: ^8.1.2
@@ -4039,13 +3924,13 @@ electrode-archetype-react-app-dev:
    babel-preset-env: ^1.6.1
    babel-preset-flow: ^6.23.0
    babel-preset-react: ^6.3.13
+   batch: ^0.6.1
    chai: ^4.0.0
    chai-as-promised: ^7.1.1
    chai-shallowly: ^1.0.0
    clean-css: ^3.4.21
    convert-source-map: ^1.5.0
    css-loader: ^1.0.0
-   css-split-webpack-plugin: ^0.2.0
    electrode-bundle-analyzer: ^1.0.0
    electrode-cdn-file-loader: ^1.0.0
    electrode-electrify: ^1.0.0
@@ -4091,7 +3976,6 @@ electrode-archetype-react-app-dev:
    postcss-scss: ^1.0.6
    prop-types: ^15.5.6
    raw-loader: ^0.5.1
-   react-hot-loader: ^3.1.3
    react-intl: ^2.1.0
    react-test-renderer: ^16.1.1
    require-at: ^1.0.0
@@ -4100,21 +3984,20 @@ electrode-archetype-react-app-dev:
    sinon-chai: ^2.14.0
    style-loader: ^0.20.1
    stylus: ^0.54.5
-   stylus-relative-loader: ^3.4.0
+   stylus-relative-loader: ../../../stylus-relative-loader
    sugarss: ^1.0.1
    sw-precache: ^5.0.0
+   sw-precache-webpack-plugin: ^0.11.5
    sw-toolbox: ^3.4.0
-   uglify-js: ^3.4.9
-   uglifyjs-webpack-plugin: ^1.3.0
+   uglifyjs-webpack-plugin: ^2.0.1
    url-loader: ^0.6.2
    web-app-manifest-loader: ^0.1.1
-   webpack: ^4.0.0
-   webpack-cli: ^3.1.0
+   webpack: ^4.19.1
+   webpack-cli: ^3.1.1
    webpack-config-composer: ^1.0.4
    webpack-dev-middleware: ^3.2.0
-   webpack-dev-server: ^3.0.0
    webpack-disk-plugin: 0.0.2
-   webpack-hot-middleware: ^2.23.1
+   webpack-hot-middleware: ^2.22.2
    webpack-stats-plugin: ^0.2.1
    winston: ^2.3.1
    xclap: ^0.2.0
@@ -4255,10 +4138,10 @@ electrode-webpack-reporter:
    socket.io: ^1.7.3
 electron-to-chromium:
  _:
-  '^1.3.47,^1.3.62': 1.3.70
- 1.3.70:
-  $: sha512-WYMjqCnPVS5JA+XvwEnpwucJpVi2+q9cdCFpbhxgWGsCtforFBEkuP9+nCyy/wnU/0SyLcLRIeZct9ayMGcXoQ==
-  _: 'https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.3.70.tgz'
+  '^1.3.47,^1.3.62': 1.3.72
+ 1.3.72:
+  $: sha512-OFbXEC01Lq7A66e3UywkvWYNN00HO1I9MAPereGe0NIXrt2MeaovL1bbY+951HKG0euUdPBe0L7yfKxgqxBMMw==
+  _: 'https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.3.72.tgz'
 elliptic:
  _:
   ^6.0.0: 6.4.1
@@ -4464,14 +4347,6 @@ error-ex:
   _: 'https://registry.npmjs.org/error-ex/-/error-ex-1.3.2.tgz'
   dependencies:
    is-arrayish: ^0.2.1
-error-stack-parser:
- _:
-  ^1.3.6: 1.3.6
- 1.3.6:
-  $: sha1-4Oc7k+QXE40c18C3RrGkoUhUwpI=
-  _: 'https://registry.npmjs.org/error-stack-parser/-/error-stack-parser-1.3.6.tgz'
-  dependencies:
-   stackframe: ^0.3.1
 es-abstract:
  _:
   '^1.10.0,^1.5.0,^1.5.1,^1.6.1,^1.7.0': 1.12.0
@@ -4486,14 +4361,14 @@ es-abstract:
    is-regex: ^1.0.4
 es-to-primitive:
  _:
-  ^1.1.1: 1.1.1
- 1.1.1:
-  $: sha1-RTVSSKiJeQNLZ5Lhm7gfK3l13Q0=
-  _: 'https://registry.npmjs.org/es-to-primitive/-/es-to-primitive-1.1.1.tgz'
+  ^1.1.1: 1.2.0
+ 1.2.0:
+  $: sha512-qZryBOJjV//LaxLTV6UC//WewneB3LcXOL9NP++ozKVXsIIIpm/2c13UDiD9Jp2eThsecw9m3jPqDwTyobcdbg==
+  _: 'https://registry.npmjs.org/es-to-primitive/-/es-to-primitive-1.2.0.tgz'
   dependencies:
-   is-callable: ^1.1.1
+   is-callable: ^1.1.4
    is-date-object: ^1.0.1
-   is-symbol: ^1.0.1
+   is-symbol: ^1.0.2
 es6-promise:
  _:
   '^3.0.2,^3.2.1': 3.3.1
@@ -4614,10 +4489,10 @@ eslint-plugin-filenames:
    eslint: '*'
 eslint-plugin-flowtype:
  _:
-  ^2.49.3: 2.50.1
- 2.50.1:
-  $: sha512-9kRxF9hfM/O6WGZcZPszOVPd2W0TLHBtceulLTsGfwMPtiCCLnCW0ssRiOOiXyqrCA20pm1iXdXm7gQeN306zQ==
-  _: 'https://registry.npmjs.org/eslint-plugin-flowtype/-/eslint-plugin-flowtype-2.50.1.tgz'
+  ^2.49.3: 2.50.3
+ 2.50.3:
+  $: sha512-X+AoKVOr7Re0ko/yEXyM5SSZ0tazc6ffdIOocp2fFUlWoDt7DV0Bz99mngOkAFLOAWjqRA5jPwqUCbrx13XoxQ==
+  _: 'https://registry.npmjs.org/eslint-plugin-flowtype/-/eslint-plugin-flowtype-2.50.3.tgz'
   dependencies:
    lodash: ^4.17.10
   peerDependencies:
@@ -4719,12 +4594,6 @@ esutils:
  2.0.2:
   $: sha1-Cr9PHKpbyx96nYrMbepPqqBLrJs=
   _: 'https://registry.npmjs.org/esutils/-/esutils-2.0.2.tgz'
-etag:
- _:
-  ~1.8.1: 1.8.1
- 1.8.1:
-  $: sha1-Qa4u62XvpiJorr/qg6x9eSmbCIc=
-  _: 'https://registry.npmjs.org/etag/-/etag-1.8.1.tgz'
 event-stream:
  _:
   ~3.3.0: 3.3.6
@@ -4752,14 +4621,6 @@ events:
  1.1.1:
   $: sha1-nr23Y1rQmccNzEwqH1AEKI6L2SQ=
   _: 'https://registry.npmjs.org/events/-/events-1.1.1.tgz'
-eventsource:
- _:
-  0.1.6: 0.1.6
- 0.1.6:
-  $: sha1-Cs7ehJ7X3RzMMsgRuxG5RNTykjI=
-  _: 'https://registry.npmjs.org/eventsource/-/eventsource-0.1.6.tgz'
-  dependencies:
-   original: '>=0.0.5'
 evp_bytestokey:
  _:
   '^1.0.0,^1.0.3': 1.0.3
@@ -4873,43 +4734,6 @@ expect:
    jest-matcher-utils: ^23.6.0
    jest-message-util: ^23.4.0
    jest-regex-util: ^23.3.0
-express:
- _:
-  ^4.16.2: 4.16.3
- 4.16.3:
-  $: sha1-avilAjUNsyRuzEvs9rWjTSL37VM=
-  _: 'http://registry.npmjs.org/express/-/express-4.16.3.tgz'
-  dependencies:
-   accepts: ~1.3.5
-   array-flatten: 1.1.1
-   body-parser: 1.18.2
-   content-disposition: 0.5.2
-   content-type: ~1.0.4
-   cookie: 0.3.1
-   cookie-signature: 1.0.6
-   debug: 2.6.9
-   depd: ~1.1.2
-   encodeurl: ~1.0.2
-   escape-html: ~1.0.3
-   etag: ~1.8.1
-   finalhandler: 1.1.1
-   fresh: 0.5.2
-   merge-descriptors: 1.0.1
-   methods: ~1.1.2
-   on-finished: ~2.3.0
-   parseurl: ~1.3.2
-   path-to-regexp: 0.1.7
-   proxy-addr: ~2.0.3
-   qs: 6.5.1
-   range-parser: ~1.2.0
-   safe-buffer: 5.1.1
-   send: 0.16.2
-   serve-static: 1.13.2
-   setprototypeof: 1.1.0
-   statuses: ~1.4.0
-   type-is: ~1.6.16
-   utils-merge: 1.0.1
-   vary: ~1.1.2
 extend:
  _:
   '^3.0.0,~3.0.1,~3.0.2': 3.0.2
@@ -5097,20 +4921,6 @@ favicons-webpack-plugin:
    lodash: ^4.11.1
   peerDependencies:
    webpack: '^1.13.0 || ^2.0.0 || ^3.0.0 || ^4.0.0'
-faye-websocket:
- _:
-  ^0.10.0: 0.10.0
-  ~0.11.0: 0.11.1
- 0.11.1:
-  $: sha1-8O/hjE9W5PQK/H4Gxxn9XuYYjzg=
-  _: 'https://registry.npmjs.org/faye-websocket/-/faye-websocket-0.11.1.tgz'
-  dependencies:
-   websocket-driver: '>=0.5.1'
- 0.10.0:
-  $: sha1-TkkvjQTftviQA1B/btvy1QHnxvQ=
-  _: 'https://registry.npmjs.org/faye-websocket/-/faye-websocket-0.10.0.tgz'
-  dependencies:
-   websocket-driver: '>=0.5.1'
 fb-watchman:
  _:
   ^2.0.0: 2.0.0
@@ -5127,6 +4937,12 @@ fd-slicer:
   _: 'https://registry.npmjs.org/fd-slicer/-/fd-slicer-1.0.1.tgz'
   dependencies:
    pend: ~1.2.0
+figgy-pudding:
+ _:
+  '^3.1.0,^3.5.1': 3.5.1
+ 3.5.1:
+  $: sha512-vNKxJHTEKNThjfrdJwHc7brvM6eVevuO5nTj6ez8ZQ1qbXTvGthucRF7S4vf2cr71QVnT70V34v0S1DyQsti0w==
+  _: 'https://registry.npmjs.org/figgy-pudding/-/figgy-pudding-3.5.1.tgz'
 figures:
  _:
   ^2.0.0: 2.0.0
@@ -5217,10 +5033,10 @@ fill-range:
 finalhandler:
  _:
   1.1.0: 1.1.0
-  '1.1.1,^1.1.1': 1.1.1
+  ^1.1.1: 1.1.1
  1.1.1:
   $: sha512-Y1GUDo39ez4aHAw7MysnUD5JzYX+WaIj8I57kO3aEPT1fFRL4sr7mjei97FgnwhAyyzRYmQZaTHb2+9uZ1dPtg==
-  _: 'https://registry.npmjs.org/finalhandler/-/finalhandler-1.1.1.tgz'
+  _: 'http://registry.npmjs.org/finalhandler/-/finalhandler-1.1.1.tgz'
   dependencies:
    debug: 2.6.9
    encodeurl: ~1.0.2
@@ -5243,6 +5059,14 @@ finalhandler:
 find-cache-dir:
  _:
   ^1.0.0: 1.0.0
+  ^2.0.0: 2.0.0
+ 2.0.0:
+  $: sha512-LDUY6V1Xs5eFskUVYtIwatojt6+9xC9Chnlk/jYOOvn3FAFfSaWddxahDGyNHh0b2dMXa6YW2m0tk8TdVaXHlA==
+  _: 'https://registry.npmjs.org/find-cache-dir/-/find-cache-dir-2.0.0.tgz'
+  dependencies:
+   commondir: ^1.0.1
+   make-dir: ^1.0.0
+   pkg-dir: ^3.0.0
  1.0.0:
   $: sha1-kojj6ePMN0hxfTnq3hfPcfww7m8=
   _: 'https://registry.npmjs.org/find-cache-dir/-/find-cache-dir-1.0.0.tgz'
@@ -5397,12 +5221,6 @@ form-data:
    asynckit: ^0.4.0
    combined-stream: 1.0.6
    mime-types: ^2.1.12
-forwarded:
- _:
-  ~0.1.2: 0.1.2
- 0.1.2:
-  $: sha1-mMI9qxF1ZXuMBXPozszZGw/xjIQ=
-  _: 'https://registry.npmjs.org/forwarded/-/forwarded-0.1.2.tgz'
 fragment-cache:
  _:
   ^0.2.1: 0.2.1
@@ -5411,12 +5229,6 @@ fragment-cache:
   _: 'https://registry.npmjs.org/fragment-cache/-/fragment-cache-0.2.1.tgz'
   dependencies:
    map-cache: ^0.2.2
-fresh:
- _:
-  0.5.2: 0.5.2
- 0.5.2:
-  $: sha1-PYyt2Q2XZWn6g1qx+OSyOhBWBac=
-  _: 'https://registry.npmjs.org/fresh/-/fresh-0.5.2.tgz'
 from:
  _:
   ^0.1.7: 0.1.7
@@ -5692,7 +5504,7 @@ glob-to-regexp:
   _: 'https://registry.npmjs.org/glob-to-regexp/-/glob-to-regexp-0.3.0.tgz'
 global:
  _:
-  '^4.3.0,~4.3.0': 4.3.2
+  ~4.3.0: 4.3.2
  4.3.2:
   $: sha1-52mJJopsdMOJCLEwWxD8DjlOnQ8=
   _: 'https://registry.npmjs.org/global/-/global-4.3.2.tgz'
@@ -5843,12 +5655,6 @@ growly:
  1.3.0:
   $: sha1-8QdIy+dq+WS3yWyTxrzCivEgwIE=
   _: 'https://registry.npmjs.org/growly/-/growly-1.3.0.tgz'
-handle-thing:
- _:
-  ^1.2.5: 1.2.5
- 1.2.5:
-  $: sha1-/Xqtcmvxpf0W38KbL3pmAdJxOcQ=
-  _: 'https://registry.npmjs.org/handle-thing/-/handle-thing-1.2.5.tgz'
 handlebars:
  _:
   '^4.0.1,^4.0.3': 4.0.12
@@ -6119,17 +5925,6 @@ hosted-git-info:
  2.7.1:
   $: sha512-7T/BxH19zbcCTa8XkMlbK5lTo1WtgkFi3GvdWEyNuc4Vex7/9Dqbnpsf4JMydcfj9HCg4zUWFTL3Za6lapg5/w==
   _: 'https://registry.npmjs.org/hosted-git-info/-/hosted-git-info-2.7.1.tgz'
-hpack.js:
- _:
-  ^2.1.6: 2.1.6
- 2.1.6:
-  $: sha1-h3dMCUnlE/QuhFdbPEVoH63ioLI=
-  _: 'https://registry.npmjs.org/hpack.js/-/hpack.js-2.1.6.tgz'
-  dependencies:
-   inherits: ^2.0.1
-   obuf: ^1.0.0
-   readable-stream: ^2.0.1
-   wbuf: ^1.1.0
 hsl-regex:
  _:
   ^1.0.0: 1.0.0
@@ -6185,16 +5980,9 @@ htmlparser2:
    domelementtype: '1'
    readable-stream: '1.1'
    entities: '1.0'
-http-deceiver:
- _:
-  ^1.2.7: 1.2.7
- 1.2.7:
-  $: sha1-+nFolEq5pRnTN8sL7HKE3D5yPYc=
-  _: 'https://registry.npmjs.org/http-deceiver/-/http-deceiver-1.2.7.tgz'
 http-errors:
  _:
-  1.6.2: 1.6.2
-  ~1.6.2: 1.6.3
+  '1.6.3,~1.6.3': 1.6.3
  1.6.3:
   $: sha1-i1VoC7S+KDoLW/TqLjhYC+HZMg0=
   _: 'http://registry.npmjs.org/http-errors/-/http-errors-1.6.3.tgz'
@@ -6203,23 +5991,9 @@ http-errors:
    inherits: 2.0.3
    setprototypeof: 1.1.0
    statuses: '>= 1.4.0 < 2'
- 1.6.2:
-  $: sha1-CgAsyFcHGSp+eUbO7cERVfYOxzY=
-  _: 'https://registry.npmjs.org/http-errors/-/http-errors-1.6.2.tgz'
-  dependencies:
-   depd: 1.1.1
-   inherits: 2.0.3
-   setprototypeof: 1.0.3
-   statuses: '>= 1.3.1 < 2'
-http-parser-js:
- _:
-  '>=0.4.0': 0.4.13
- 0.4.13:
-  $: sha1-O9bW/ebjFyyTNMOzO2wZPYD+ETc=
-  _: 'https://registry.npmjs.org/http-parser-js/-/http-parser-js-0.4.13.tgz'
 http-proxy:
  _:
-  '^1.13.0,^1.16.2': 1.17.0
+  ^1.13.0: 1.17.0
  1.17.0:
   $: sha512-Taqn+3nNvYRfJ3bGvKfBSRwy1v6eePlm3oc/aWVxZp57DQr5Eq3xhKJi7Z4hZpS8PC3H4qI+Yly5EmFacGuA/g==
   _: 'https://registry.npmjs.org/http-proxy/-/http-proxy-1.17.0.tgz'
@@ -6236,17 +6010,6 @@ http-proxy-agent:
   dependencies:
    agent-base: '4'
    debug: 3.1.0
-http-proxy-middleware:
- _:
-  ~0.18.0: 0.18.0
- 0.18.0:
-  $: sha512-Fs25KVMPAIIcgjMZkVHJoKg9VcXcC1C8yb9JUgeDvVXY0S/zgVIhMb+qVswDIgtJe2DfckMSY2d6TuTEutlk6Q==
-  _: 'http://registry.npmjs.org/http-proxy-middleware/-/http-proxy-middleware-0.18.0.tgz'
-  dependencies:
-   http-proxy: ^1.16.2
-   is-glob: ^4.0.0
-   lodash: ^4.17.5
-   micromatch: ^3.1.9
 http-signature:
  _:
   ~1.2.0: 1.2.0
@@ -6286,7 +6049,6 @@ humps:
   _: 'https://registry.npmjs.org/humps/-/humps-2.0.1.tgz'
 iconv-lite:
  _:
-  0.4.19: 0.4.19
   0.4.23: 0.4.23
   ^0.4.17: 0.4.24
  0.4.24:
@@ -6299,9 +6061,6 @@ iconv-lite:
   _: 'https://registry.npmjs.org/iconv-lite/-/iconv-lite-0.4.23.tgz'
   dependencies:
    safer-buffer: '>= 2.1.2 < 3'
- 0.4.19:
-  $: sha512-oTZqweIP51xaGPI4uPa56/Pri/480R+mo7SeU+YETByQNhDG55ycFyNLIgta9vXhILrxXDmF7ZGhqZIcuN0gJQ==
-  _: 'https://registry.npmjs.org/iconv-lite/-/iconv-lite-0.4.19.tgz'
 icss-replace-symbols:
  _:
   '1.1.0,^1.0.2,^1.1.0': 1.1.0
@@ -6499,15 +6258,6 @@ insync:
  2.1.1:
   $: sha1-IuJsYRITA8BvUdNaPM9tj8HpFMQ=
   _: 'https://registry.npmjs.org/insync/-/insync-2.1.1.tgz'
-internal-ip:
- _:
-  ^3.0.1: 3.0.1
- 3.0.1:
-  $: sha512-NXXgESC2nNVtU+pqmC9e6R8B1GpKxzsAQhffvh5AL79qKnodd+L7tnEQmTiUAVngqLalPbSqRA7XGIEL5nCd0Q==
-  _: 'https://registry.npmjs.org/internal-ip/-/internal-ip-3.0.1.tgz'
-  dependencies:
-   default-gateway: ^2.6.0
-   ipaddr.js: ^1.5.2
 interpret:
  _:
   ^1.1.0: 1.1.0
@@ -6566,32 +6316,12 @@ invert-kv:
  1.0.0:
   $: sha1-EEqOSqym09jNFXqO+L+rLXo//bY=
   _: 'https://registry.npmjs.org/invert-kv/-/invert-kv-1.0.0.tgz'
-ip:
- _:
-  '^1.1.0,^1.1.5': 1.1.5
- 1.1.5:
-  $: sha1-vd7XARQpCCjAoDnnLvJfWq7ENUo=
-  _: 'https://registry.npmjs.org/ip/-/ip-1.1.5.tgz'
 ip-regex:
  _:
   ^1.0.1: 1.0.3
-  ^2.1.0: 2.1.0
- 2.1.0:
-  $: sha1-+ni/XS5pE8kRzp+BnuUUa7bYROk=
-  _: 'https://registry.npmjs.org/ip-regex/-/ip-regex-2.1.0.tgz'
  1.0.3:
   $: sha1-3FiQdvZZ9BnCIgOaMzFvHHOH7/0=
   _: 'https://registry.npmjs.org/ip-regex/-/ip-regex-1.0.3.tgz'
-ipaddr.js:
- _:
-  1.8.0: 1.8.0
-  ^1.5.2: 1.8.1
- 1.8.1:
-  $: sha1-+kt5+kf9Pe9eOxWYJRYcClGclCc=
-  _: 'https://registry.npmjs.org/ipaddr.js/-/ipaddr.js-1.8.1.tgz'
- 1.8.0:
-  $: sha1-6qM9bd16zo9/b+DJygRA5wZzix4=
-  _: 'https://registry.npmjs.org/ipaddr.js/-/ipaddr.js-1.8.0.tgz'
 iron:
  _:
   '4.x.x,^4.0.5': 4.0.5
@@ -6662,7 +6392,7 @@ is-builtin-module:
    builtin-modules: ^1.0.0
 is-callable:
  _:
-  '^1.1.1,^1.1.3,^1.1.4': 1.1.4
+  '^1.1.3,^1.1.4': 1.1.4
  1.1.4:
   $: sha512-r5p9sxJjYnArLjObpjA4xu5EKI3CuKHkJXMhT7kwbpUyIFD1n5PMAsoPvWnvtZiNz7LjkYDRZhd7FlI0eMijEA==
   _: 'https://registry.npmjs.org/is-callable/-/is-callable-1.1.4.tgz'
@@ -6982,7 +6712,7 @@ is-svg:
    html-comment-regex: ^1.1.0
 is-symbol:
  _:
-  ^1.0.1: 1.0.2
+  ^1.0.2: 1.0.2
  1.0.2:
   $: sha512-HS8bZ9ox60yCJLH9snBpIwv9pYUAkcuLhSA1oero1UB5y9aiQpRA8y2ex945AOtCZL1lJDeIk3G5LthswI46Lw==
   _: 'https://registry.npmjs.org/is-symbol/-/is-symbol-1.0.2.tgz'
@@ -7740,7 +7470,7 @@ json-stringify-safe:
   _: 'https://registry.npmjs.org/json-stringify-safe/-/json-stringify-safe-5.0.1.tgz'
 json3:
  _:
-  '3.3.2,^3.3.2': 3.3.2
+  3.3.2: 3.3.2
  3.3.2:
   $: sha1-PAQ0dD35Pi9cQq7nsZvLSDV19OE=
   _: 'https://registry.npmjs.org/json3/-/json3-3.3.2.tgz'
@@ -7749,7 +7479,7 @@ json5:
   '^0.5.0,^0.5.1': 0.5.1
  0.5.1:
   $: sha1-Hq3nrMASA0rYTiOWdn6tn6VJWCE=
-  _: 'https://registry.npmjs.org/json5/-/json5-0.5.1.tgz'
+  _: 'http://registry.npmjs.org/json5/-/json5-0.5.1.tgz'
 jsonfile:
  _:
   '^2.1.0,^2.2.2': 2.4.0
@@ -7949,30 +7679,25 @@ karma-spec-reporter:
    karma: '>=0.9'
 karma-webpack:
  _:
-  ^4.0.0-rc.1: 4.0.0-rc.2
- 4.0.0-rc.2:
-  $: sha512-Wuiq/xFBsbJMsHhYy5SYXxSp7Q0b8uzAG8+Siuo56ntoi5GluPE5LK3Mzl2UtD4k1leFwL6IeIE6Q+tk4F6k9Q==
-  _: 'https://registry.npmjs.org/karma-webpack/-/karma-webpack-4.0.0-rc.2.tgz'
+  ^2.0.2: 2.0.13
+ 2.0.13:
+  $: sha512-2cyII34jfrAabbI2+4Rk4j95Nazl98FvZQhgSiqKUDarT317rxfv/EdzZ60CyATN4PQxJdO5ucR5bOOXkEVrXw==
+  _: 'http://registry.npmjs.org/karma-webpack/-/karma-webpack-2.0.13.tgz'
   dependencies:
    async: ^2.0.0
-   loader-utils: ^1.1.0
-   lodash: ^4.17.10
+   babel-runtime: ^6.0.0
+   loader-utils: ^1.0.0
+   lodash: ^4.0.0
    source-map: ^0.5.6
-   webpack-dev-middleware: ^3.2.0
+   webpack-dev-middleware: ^1.12.0
   peerDependencies:
-   webpack: ^4.0.0
+   webpack: '^1.0.0 || ^2.0.0 || ^3.0.0 || ^4.0.0'
 kew:
  _:
   ^0.7.0: 0.7.0
  0.7.0:
   $: sha1-edk9LTM2PW/dKXCzNdkUGtWR15s=
   _: 'https://registry.npmjs.org/kew/-/kew-0.7.0.tgz'
-killable:
- _:
-  ^1.0.0: 1.0.1
- 1.0.1:
-  $: sha512-LzqtLKlUwirEUyl/nicirVmNiPvYs7l5n8wOPP7fyJVpUPkvCnW/vuiXGpylGUlnPDnB7311rARzAt3Mhswpjg==
-  _: 'https://registry.npmjs.org/killable/-/killable-1.0.1.tgz'
 kind-of:
  _:
   '^3.0.2,^3.0.3,^3.2.0': 3.2.2
@@ -8103,7 +7828,7 @@ loader-runner:
 loader-utils:
  _:
   '0.2.x,^0.2.12,^0.2.14,^0.2.16,^0.2.9': 0.2.17
-  '^1.0.1,^1.0.2,^1.1.0': 1.1.0
+  '^1.0.0,^1.0.1,^1.0.2,^1.1.0': 1.1.0
  1.1.0:
   $: sha1-yYrvSIvM7aL/teLeZG1qdUQp9c0=
   _: 'https://registry.npmjs.org/loader-utils/-/loader-utils-1.1.0.tgz'
@@ -8367,12 +8092,6 @@ log4js:
   dependencies:
    readable-stream: ~1.0.2
    semver: ~4.3.3
-loglevel:
- _:
-  ^1.4.1: 1.6.1
- 1.6.1:
-  $: sha1-4PyVEztu8nbNyIh82vJKpvFW+Po=
-  _: 'https://registry.npmjs.org/loglevel/-/loglevel-1.6.1.tgz'
 lolex:
  _:
   '^2.2.0,^2.3.2': 2.7.5
@@ -8404,7 +8123,7 @@ lowercase-keys:
   _: 'https://registry.npmjs.org/lowercase-keys/-/lowercase-keys-1.0.1.tgz'
 lru-cache:
  _:
-  '4.1.x,^4.0.1,^4.1.1': 4.1.3
+  '4.1.x,^4.0.1,^4.1.1,^4.1.3': 4.1.3
  4.1.3:
   $: sha512-fFEhvcgzuIoJVUF8fYr5KR0YqxD238zgObTps31YdADwPPAp82a4M8TrckkWyx7ekNlf9aBcVn81cFwwXngrJA==
   _: 'https://registry.npmjs.org/lru-cache/-/lru-cache-4.1.3.tgz'
@@ -8433,12 +8152,6 @@ makeerror:
   _: 'https://registry.npmjs.org/makeerror/-/makeerror-1.0.11.tgz'
   dependencies:
    tmpl: 1.0.x
-mamacro:
- _:
-  ^0.0.3: 0.0.3
- 0.0.3:
-  $: sha512-qMEwh+UujcQ+kbz3T6V+wAmO2U8veoq2w+3wY8MquqwVA3jChfwY+Tk52GZKDfACEPjuZ7r2oJLejwpt8jtwTA==
-  _: 'https://registry.npmjs.org/mamacro/-/mamacro-0.0.3.tgz'
 map-age-cleaner:
  _:
   ^0.1.1: 0.1.2
@@ -8572,12 +8285,6 @@ merge-defaults:
   _: 'https://registry.npmjs.org/merge-defaults/-/merge-defaults-0.2.1.tgz'
   dependencies:
    lodash: ~2.4.1
-merge-descriptors:
- _:
-  1.0.1: 1.0.1
- 1.0.1:
-  $: sha1-sAqqVW3YtEVoFQ7J0blT8/kMu2E=
-  _: 'https://registry.npmjs.org/merge-descriptors/-/merge-descriptors-1.0.1.tgz'
 merge-stream:
  _:
   ^1.0.1: 1.0.1
@@ -8586,16 +8293,10 @@ merge-stream:
   _: 'https://registry.npmjs.org/merge-stream/-/merge-stream-1.0.1.tgz'
   dependencies:
    readable-stream: ^2.0.1
-methods:
- _:
-  ~1.1.2: 1.1.2
- 1.1.2:
-  $: sha1-VSmk1nZUE07cxSZmVoNbD4Ua/O4=
-  _: 'https://registry.npmjs.org/methods/-/methods-1.1.2.tgz'
 micromatch:
  _:
   '^2.1.5,^2.3.11': 2.3.11
-  '^3.1.10,^3.1.4,^3.1.8,^3.1.9': 3.1.10
+  '^3.1.10,^3.1.4,^3.1.8': 3.1.10
  3.1.10:
   $: sha512-MWikgl9n9M3w+bpsY3He8L+w9eF9338xRl8IAO5viDizwSzziFEyUzo2xrrloB64ADbTf8uA8vRqqttDTOmccg==
   _: 'https://registry.npmjs.org/micromatch/-/micromatch-3.1.10.tgz'
@@ -8650,8 +8351,7 @@ milligram:
    normalize.css: ~5.0.0
 mime:
  _:
-  1.4.1: 1.4.1
-  '^1.0.0,^1.3.4,^1.4.1': 1.6.0
+  '^1.0.0,^1.3.4,^1.4.1,^1.5.0': 1.6.0
   ^2.3.1: 2.3.1
  2.3.1:
   $: sha512-OEUllcVoydBHGN1z84yfQDimn58pZNNNXgZlHXSboxMlFvgI6MXSWpWKpFRra7H1HxpVhHTkrghfRW49k6yjeg==
@@ -8659,12 +8359,9 @@ mime:
  1.6.0:
   $: sha512-x0Vn8spI+wuJ1O6S7gnbaQg8Pxh4NNHb7KSINmEWKiPE4RKOplvijn+NkmYmmRgP68mc70j2EbeTFRsrswaQeg==
   _: 'https://registry.npmjs.org/mime/-/mime-1.6.0.tgz'
- 1.4.1:
-  $: sha512-KI1+qOZu5DcW6wayYHSzR/tXKCDC5Om4s1z2QJjDULzLcmf3DvzS7oluY4HCTrc+9FiKmWUgeNLg7W3uIQvxtQ==
-  _: 'https://registry.npmjs.org/mime/-/mime-1.4.1.tgz'
 mime-db:
  _:
-  '1.x.x,>= 1.36.0 < 2,~1.36.0': 1.36.0
+  '1.x.x,~1.36.0': 1.36.0
  1.36.0:
   $: sha512-L+xvyD9MkoYMXb1jAmzI/lWYAxAMCPvIBSWur0PZ5nOf5euahRLVqH//FKW9mWp2lkqUgYiXPgkzfMUFi4zVDw==
   _: 'https://registry.npmjs.org/mime-db/-/mime-db-1.36.0.tgz'
@@ -8749,6 +8446,21 @@ minimist:
 mississippi:
  _:
   ^2.0.0: 2.0.0
+  ^3.0.0: 3.0.0
+ 3.0.0:
+  $: sha512-x471SsVjUtBRtcvd4BzKE9kFC+/2TeWgKCgw0bZcw1b9l2X3QX5vCWgF+KaZaYm87Ss//rHnWryupDrgLvmSkA==
+  _: 'https://registry.npmjs.org/mississippi/-/mississippi-3.0.0.tgz'
+  dependencies:
+   concat-stream: ^1.5.0
+   duplexify: ^3.4.2
+   end-of-stream: ^1.1.0
+   flush-write-stream: ^1.0.0
+   from2: ^2.1.0
+   parallel-transform: ^1.1.0
+   pump: ^3.0.0
+   pumpify: ^1.3.3
+   stream-each: ^1.1.0
+   through2: ^2.0.0
  2.0.0:
   $: sha512-zHo8v+otD1J10j/tC+VNoGK9keCuByhKovAvdn74dmxJl9+mWHnx6EMsDN4lgRoMI/eYo2nchAxniIbUPb5onw==
   _: 'https://registry.npmjs.org/mississippi/-/mississippi-2.0.0.tgz'
@@ -8849,21 +8561,6 @@ ms:
  0.7.1:
   $: sha1-nNE8A62/8ltl7/3nzoZO6VIBcJg=
   _: 'https://registry.npmjs.org/ms/-/ms-0.7.1.tgz'
-multicast-dns:
- _:
-  ^6.0.1: 6.2.3
- 6.2.3:
-  $: sha512-ji6J5enbMyGRHIAkAOu3WdV8nggqviKCEKtXcOqfphZZtQrmHKycfynJ2V7eVPUA4NhJ6V7Wf4TmGbTwKE9B6g==
-  _: 'https://registry.npmjs.org/multicast-dns/-/multicast-dns-6.2.3.tgz'
-  dependencies:
-   dns-packet: ^1.3.1
-   thunky: ^1.0.2
-multicast-dns-service-types:
- _:
-  ^1.1.0: 1.1.0
- 1.1.0:
-  $: sha1-iZ8R2WhuXgXLkbNdXw5jt3PPyQE=
-  _: 'https://registry.npmjs.org/multicast-dns-service-types/-/multicast-dns-service-types-1.1.0.tgz'
 mute-stream:
  _:
   0.0.7: 0.0.7
@@ -8965,12 +8662,6 @@ node-fetch:
  2.2.0:
   $: sha512-OayFWziIxiHY8bCUyLX6sTpDH8Jsbp4FfYd1j1f7vZyfgkcOnAyM4oQR16f8a0s7Gl/viMGRey8eScYk4V4EZA==
   _: 'https://registry.npmjs.org/node-fetch/-/node-fetch-2.2.0.tgz'
-node-forge:
- _:
-  0.7.5: 0.7.5
- 0.7.5:
-  $: sha512-MmbQJ2MTESTjt3Gi/3yG1wGpIMhUfcIypUCGtTizFR9IiccFwxSpfp0vtIZlkFclEqERemxfnSdZEMR9VqqEFQ==
-  _: 'https://registry.npmjs.org/node-forge/-/node-forge-0.7.5.tgz'
 node-gyp:
  _:
   ^3.8.0: 3.8.0
@@ -9039,10 +8730,10 @@ node-notifier:
    which: ^1.3.0
 node-releases:
  _:
-  ^1.0.0-alpha.11: 1.0.0-alpha.11
- 1.0.0-alpha.11:
-  $: sha512-CaViu+2FqTNYOYNihXa5uPS/zry92I3vPU4nCB6JB3OeZ2UGtOpF5gRwuN4+m3hbEcL47bOXyun1jX2iC+3uEQ==
-  _: 'https://registry.npmjs.org/node-releases/-/node-releases-1.0.0-alpha.11.tgz'
+  ^1.0.0-alpha.11: 1.0.0-alpha.12
+ 1.0.0-alpha.12:
+  $: sha512-VPB4rTPqpVyWKBHbSa4YPFme3+8WHsOSpvbp0Mfj0bWsC8TEjt4HQrLl1hsBDELlp1nB4lflSgSuGTYiuyaP7Q==
+  _: 'https://registry.npmjs.org/node-releases/-/node-releases-1.0.0-alpha.12.tgz'
   dependencies:
    semver: ^5.3.0
 node-rest-client:
@@ -9339,12 +9030,6 @@ object.values:
    es-abstract: ^1.6.1
    has: ^1.0.1
    function-bind: ^1.1.0
-obuf:
- _:
-  '^1.0.0,^1.1.1': 1.1.2
- 1.1.2:
-  $: sha512-PX1wu0AmAdPqOL1mWhqmlOd8kOIZQwGZw6rh7uby9fTc5lhaOWFLX3I6R1hrF9k3zUY40e6igsLGkDXK92LJNg==
-  _: 'https://registry.npmjs.org/obuf/-/obuf-1.1.2.tgz'
 offline-plugin:
  _:
   ^4.6.1: 4.9.1
@@ -9365,12 +9050,6 @@ on-finished:
   _: 'https://registry.npmjs.org/on-finished/-/on-finished-2.3.0.tgz'
   dependencies:
    ee-first: 1.1.1
-on-headers:
- _:
-  ~1.0.1: 1.0.1
- 1.0.1:
-  $: sha1-ko9dD0cNSTQmUepnlLCFfBAGk/c=
-  _: 'https://registry.npmjs.org/on-headers/-/on-headers-1.0.1.tgz'
 once:
  _:
   '1.x,^1.3.0,^1.3.1,^1.4.0': 1.4.0
@@ -9395,7 +9074,7 @@ opener:
   _: 'https://registry.npmjs.org/opener/-/opener-1.5.1.tgz'
 opn:
  _:
-  '^5.1.0,^5.3.0': 5.4.0
+  ^5.3.0: 5.4.0
  5.4.0:
   $: sha512-YF9MNdVy/0qvJvDtunAOzFw9iasOQHpVthTCvGzxt61Il64AYSGdK+rYwld7NAfk9qJ7dt+hymBNSc9LNYS+Sw==
   _: 'https://registry.npmjs.org/opn/-/opn-5.4.0.tgz'
@@ -9455,14 +9134,6 @@ options:
  0.0.6:
   $: sha1-7CLTEoBrtT5zF3Pnza788cZDEo8=
   _: 'https://registry.npmjs.org/options/-/options-0.0.6.tgz'
-original:
- _:
-  '>=0.0.5': 1.0.2
- 1.0.2:
-  $: sha512-hyBVl6iqqUOJ8FqRe+l/gS8H+kKYjrEndd5Pm1MfBtsEKA038HkkdbAl/72EAXGyonD/PFsvmVG+EvcIpliMBg==
-  _: 'https://registry.npmjs.org/original/-/original-1.0.2.tgz'
-  dependencies:
-   url-parse: ^1.4.3
 os-browserify:
  _:
   ^0.3.0: 0.3.0
@@ -9810,16 +9481,12 @@ path-parse:
   _: 'https://registry.npmjs.org/path-parse/-/path-parse-1.0.6.tgz'
 path-to-regexp:
  _:
-  0.1.7: 0.1.7
   '^1.0.1,^1.7.0': 1.7.0
  1.7.0:
   $: sha1-Wf3g9DW62suhA6hOnTvGTpa5k30=
   _: 'https://registry.npmjs.org/path-to-regexp/-/path-to-regexp-1.7.0.tgz'
   dependencies:
    isarray: 0.0.1
- 0.1.7:
-  $: sha1-32BBeABfUi8V60SQ5yR6G/qmf4w=
-  _: 'https://registry.npmjs.org/path-to-regexp/-/path-to-regexp-0.1.7.tgz'
 path-type:
  _:
   ^1.0.0: 1.1.0
@@ -9832,7 +9499,7 @@ path-type:
    pinkie-promise: ^2.0.0
 pathval:
  _:
-  ^1.0.0: 1.1.0
+  ^1.1.0: 1.1.0
  1.1.0:
   $: sha1-uULm1L3mUwBe9rcTYd74cn0GReA=
   _: 'https://registry.npmjs.org/pathval/-/pathval-1.1.0.tgz'
@@ -9846,10 +9513,10 @@ pause-stream:
    through: ~2.3
 pbkdf2:
  _:
-  ^3.0.3: 3.0.16
- 3.0.16:
-  $: sha512-y4CXP3thSxqf7c0qmOF+9UeOTrifiVTIM+u7NWlq+PRsHbr7r7dpCmvzrZxa96JJUNi0Y5w9VqG5ZNeCVMoDcA==
-  _: 'https://registry.npmjs.org/pbkdf2/-/pbkdf2-3.0.16.tgz'
+  ^3.0.3: 3.0.17
+ 3.0.17:
+  $: sha512-U/il5MsrZp7mGg3mSQfn742na2T+1/vHDCG5/iTI3X9MKUuYUZVLQhyRsg06mCgDBTd57TxzgZt7P+fYfjRLtA==
+  _: 'https://registry.npmjs.org/pbkdf2/-/pbkdf2-3.0.17.tgz'
   dependencies:
    create-hash: ^1.1.2
    create-hmac: ^1.1.4
@@ -9997,16 +9664,6 @@ podium:
    hoek: 4.x.x
    items: 2.x.x
    joi: 10.x.x
-portfinder:
- _:
-  ^1.0.9: 1.0.17
- 1.0.17:
-  $: sha512-syFcRIRzVI1BoEFOCaAiizwDolh1S1YXSodsVhncbhjzjZQulhczNRbqnUl9N31Q4dKGOXsNDqxC2BWBgSMqeQ==
-  _: 'https://registry.npmjs.org/portfinder/-/portfinder-1.0.17.tgz'
-  dependencies:
-   async: ^1.5.2
-   debug: ^2.2.0
-   mkdirp: 0.5.x
 posix-character-classes:
  _:
   ^0.1.0: 0.1.1
@@ -10017,15 +9674,15 @@ postcss:
  _:
   6.0.1: 6.0.1
   '^5.0.10,^5.0.14': 5.2.18
-  '^6.0,^6.0.0,^6.0.1,^6.0.14,^6.0.16,^6.0.18,^6.0.2,^6.0.20,^6.0.21,^6.0.22,^6.0.23': 6.0.23
-  '^7.0.0,^7.0.1': 7.0.2
- 7.0.2:
-  $: sha512-fmaUY5370keLUTx+CnwRxtGiuFTcNBLQBqr1oE3WZ/euIYmGAo0OAgOhVJ3ByDnVmOR3PK+0V9VebzfjRIUcqw==
-  _: 'https://registry.npmjs.org/postcss/-/postcss-7.0.2.tgz'
+  '^6.0,^6.0.1,^6.0.14,^6.0.16,^6.0.18,^6.0.2,^6.0.20,^6.0.21,^6.0.22,^6.0.23': 6.0.23
+  '^7.0.0,^7.0.1,^7.0.2': 7.0.4
+ 7.0.4:
+  $: sha512-Bg1BrMZGKNOI0mkn8NtjJrOrZKgoHrl+geKJ45mTOkeY4WCsYq/mjd1BUWRgRvydHP/lA07Ys2n9m6Va5FsEsw==
+  _: 'https://registry.npmjs.org/postcss/-/postcss-7.0.4.tgz'
   dependencies:
    chalk: ^2.4.1
    source-map: ^0.6.1
-   supports-color: ^5.4.0
+   supports-color: ^5.5.0
  6.0.23:
   $: sha512-soOk1h6J3VMTZtVeVpv15/Hpdl2cBLX3CAw4TAbkpTJiNPk9YP/zWcD1ND+xEtvyuuvKzbxliTOIyvkSeSJ6ag==
   _: 'https://registry.npmjs.org/postcss/-/postcss-6.0.23.tgz'
@@ -10059,13 +9716,13 @@ postcss-attribute-case-insensitive:
    postcss-selector-parser: ^4.0.0
 postcss-calc:
  _:
-  ^6.0.0: 6.0.1
- 6.0.1:
-  $: sha1-PSQXG79udinUIqQ26/5t2VEfQzA=
-  _: 'https://registry.npmjs.org/postcss-calc/-/postcss-calc-6.0.1.tgz'
+  ^6.0.2: 6.0.2
+ 6.0.2:
+  $: sha512-fiznXjEN5T42Qm7qqMCVJXS3roaj9r4xsSi+meaBVe7CJBl8t/QLOXu02Z2E6oWAMWIvCuF6JrvzFekmVEbOKA==
+  _: 'https://registry.npmjs.org/postcss-calc/-/postcss-calc-6.0.2.tgz'
   dependencies:
    css-unit-converter: ^1.1.1
-   postcss: ^6.0.0
+   postcss: ^7.0.2
    postcss-selector-parser: ^2.2.2
    reduce-css-calc: ^2.0.0
 postcss-color-functional-notation:
@@ -10108,7 +9765,7 @@ postcss-color-rebeccapurple:
    postcss-values-parser: ^1.5.0
 postcss-colormin:
  _:
-  ^4.0.0: 4.0.2
+  ^4.0.2: 4.0.2
  4.0.2:
   $: sha512-1QJc2coIehnVFsz0otges8kQLsryi4lo19WD+U5xCWvXd0uw/Z+KKYnbiNDCnO9GP+PvErPHCG0jNvWTngk9Rw==
   _: 'https://registry.npmjs.org/postcss-colormin/-/postcss-colormin-4.0.2.tgz'
@@ -10120,7 +9777,7 @@ postcss-colormin:
    postcss-value-parser: ^3.0.0
 postcss-convert-values:
  _:
-  ^4.0.0: 4.0.1
+  ^4.0.1: 4.0.1
  4.0.1:
   $: sha512-Kisdo1y77KUC0Jmn0OXU/COOJbzM8cImvw1ZFsBgBgMgb1iL23Zs/LXRe3r+EZqM3vGYKdQ2YJVQ5VkJI+zEJQ==
   _: 'https://registry.npmjs.org/postcss-convert-values/-/postcss-convert-values-4.0.1.tgz'
@@ -10164,7 +9821,7 @@ postcss-dir-pseudo-class:
    postcss-selector-parser: ^4.0.0
 postcss-discard-comments:
  _:
-  ^4.0.0: 4.0.1
+  ^4.0.1: 4.0.1
  4.0.1:
   $: sha512-Ay+rZu1Sz6g8IdzRjUgG2NafSNpp2MSMOQUb+9kkzzzP+kh07fP0yNbhtFejURnyVXSX3FYy2nVNW1QTnNjgBQ==
   _: 'https://registry.npmjs.org/postcss-discard-comments/-/postcss-discard-comments-4.0.1.tgz'
@@ -10172,15 +9829,15 @@ postcss-discard-comments:
    postcss: ^7.0.0
 postcss-discard-duplicates:
  _:
-  ^4.0.0: 4.0.1
- 4.0.1:
-  $: sha512-5LIsU0rWhKF5keAKCjPFuda76vjlO/2aZtdxW/NiJkPigf5J37ubLq4xQM/s24vzsePCEWH7/VveVd6fUAnwqA==
-  _: 'https://registry.npmjs.org/postcss-discard-duplicates/-/postcss-discard-duplicates-4.0.1.tgz'
+  ^4.0.2: 4.0.2
+ 4.0.2:
+  $: sha512-ZNQfR1gPNAiXZhgENFfEglF93pciw0WxMkJeVmw8eF+JZBbMD7jp6C67GqJAXVZP2BWbOztKfbsdmMp/k8c6oQ==
+  _: 'https://registry.npmjs.org/postcss-discard-duplicates/-/postcss-discard-duplicates-4.0.2.tgz'
   dependencies:
-   postcss: ^6.0.0
+   postcss: ^7.0.0
 postcss-discard-empty:
  _:
-  ^4.0.0: 4.0.1
+  ^4.0.1: 4.0.1
  4.0.1:
   $: sha512-B9miTzbznhDjTfjvipfHoqbWKwd0Mj+/fL5s1QOz06wufguil+Xheo4XpOnc4NqKYBCNqqEzgPv2aPBIJLox0w==
   _: 'https://registry.npmjs.org/postcss-discard-empty/-/postcss-discard-empty-4.0.1.tgz'
@@ -10188,7 +9845,7 @@ postcss-discard-empty:
    postcss: ^7.0.0
 postcss-discard-overridden:
  _:
-  ^4.0.0: 4.0.1
+  ^4.0.1: 4.0.1
  4.0.1:
   $: sha512-IYY2bEDD7g1XM1IDEsUT4//iEYCxAmP5oDSFMVU/JVvT7gh+l4fmjciLqGgwjdWpQIdb0Che2VX00QObS5+cTg==
   _: 'https://registry.npmjs.org/postcss-discard-overridden/-/postcss-discard-overridden-4.0.1.tgz'
@@ -10322,7 +9979,7 @@ postcss-media-minmax:
    postcss: ^6.0.1
 postcss-merge-longhand:
  _:
-  ^4.0.0: 4.0.6
+  ^4.0.6: 4.0.6
  4.0.6:
   $: sha512-JavnI+V4IHWsaUAfOoKeMEiJQGXTraEy1nHM0ILlE6NIQPEZrJDAnPh3lNGZ5HAk2mSSrwp66JoGhvjp6SqShA==
   _: 'https://registry.npmjs.org/postcss-merge-longhand/-/postcss-merge-longhand-4.0.6.tgz'
@@ -10333,7 +9990,7 @@ postcss-merge-longhand:
    stylehacks: ^4.0.0
 postcss-merge-rules:
  _:
-  ^4.0.0: 4.0.2
+  ^4.0.2: 4.0.2
  4.0.2:
   $: sha512-UiuXwCCJtQy9tAIxsnurfF0mrNHKc4NnNx6NxqmzNNjXpQwLSukUxELHTRF0Rg1pAmcoKLih8PwvZbiordchag==
   _: 'https://registry.npmjs.org/postcss-merge-rules/-/postcss-merge-rules-4.0.2.tgz'
@@ -10352,16 +10009,16 @@ postcss-message-helpers:
   _: 'https://registry.npmjs.org/postcss-message-helpers/-/postcss-message-helpers-2.0.0.tgz'
 postcss-minify-font-values:
  _:
-  ^4.0.0: 4.0.1
- 4.0.1:
-  $: sha512-qP/Nc+I0MheyiC41hYx5yFeRu1XGQdWjVC8Lfr2UE/PtnIdGgoyPOfVrVhGB+KnjhjS2NNyuYJRn4iBC9CpY3A==
-  _: 'https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-4.0.1.tgz'
+  ^4.0.2: 4.0.2
+ 4.0.2:
+  $: sha512-j85oO6OnRU9zPf04+PZv1LYIYOprWm6IA6zkXkrJXyRveDEuQggG6tvoy8ir8ZwjLxLuGfNkCZEQG7zan+Hbtg==
+  _: 'https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-4.0.2.tgz'
   dependencies:
-   postcss: ^6.0.0
+   postcss: ^7.0.0
    postcss-value-parser: ^3.0.0
 postcss-minify-gradients:
  _:
-  ^4.0.0: 4.0.1
+  ^4.0.1: 4.0.1
  4.0.1:
   $: sha512-pySEW3E6Ly5mHm18rekbWiAjVi/Wj8KKt2vwSfVFAWdW6wOIekgqxKxLU7vJfb107o3FDNPkaYFCxGAJBFyogA==
   _: 'https://registry.npmjs.org/postcss-minify-gradients/-/postcss-minify-gradients-4.0.1.tgz'
@@ -10372,7 +10029,7 @@ postcss-minify-gradients:
    postcss-value-parser: ^3.0.0
 postcss-minify-params:
  _:
-  ^4.0.0: 4.0.1
+  ^4.0.1: 4.0.1
  4.0.1:
   $: sha512-h4W0FEMEzBLxpxIVelRtMheskOKKp52ND6rJv+nBS33G1twu2tCyurYj/YtgU76+UDCvWeNs0hs8HFAWE2OUFg==
   _: 'https://registry.npmjs.org/postcss-minify-params/-/postcss-minify-params-4.0.1.tgz'
@@ -10385,7 +10042,7 @@ postcss-minify-params:
    uniqs: ^2.0.0
 postcss-minify-selectors:
  _:
-  ^4.0.0: 4.0.1
+  ^4.0.1: 4.0.1
  4.0.1:
   $: sha512-8+plQkomve3G+CodLCgbhAKrb5lekAnLYuL1d7Nz+/7RANpBEVdgBkPNwljfSKvZ9xkkZTZITd04KP+zeJTJqg==
   _: 'https://registry.npmjs.org/postcss-minify-selectors/-/postcss-minify-selectors-4.0.1.tgz'
@@ -10488,15 +10145,15 @@ postcss-nesting:
    postcss: ^6.0.22
 postcss-normalize-charset:
  _:
-  ^4.0.0: 4.0.0
- 4.0.0:
-  $: sha1-JFJyknAtXoEp6vo9HeSe1RpqtzA=
-  _: 'https://registry.npmjs.org/postcss-normalize-charset/-/postcss-normalize-charset-4.0.0.tgz'
+  ^4.0.1: 4.0.1
+ 4.0.1:
+  $: sha512-gMXCrrlWh6G27U0hF3vNvR3w8I1s2wOBILvA87iNXaPvSNo5uZAMYsZG7XjCUf1eVxuPfyL4TJ7++SGZLc9A3g==
+  _: 'https://registry.npmjs.org/postcss-normalize-charset/-/postcss-normalize-charset-4.0.1.tgz'
   dependencies:
-   postcss: ^6.0.0
+   postcss: ^7.0.0
 postcss-normalize-display-values:
  _:
-  ^4.0.0: 4.0.1
+  ^4.0.1: 4.0.1
  4.0.1:
   $: sha512-R5mC4vaDdvsrku96yXP7zak+O3Mm9Y8IslUobk7IMP+u/g+lXvcN4jngmHY5zeJnrQvE13dfAg5ViU05ZFDwdg==
   _: 'https://registry.npmjs.org/postcss-normalize-display-values/-/postcss-normalize-display-values-4.0.1.tgz'
@@ -10506,7 +10163,7 @@ postcss-normalize-display-values:
    postcss-value-parser: ^3.0.0
 postcss-normalize-positions:
  _:
-  ^4.0.0: 4.0.1
+  ^4.0.1: 4.0.1
  4.0.1:
   $: sha512-GNoOaLRBM0gvH+ZRb2vKCIujzz4aclli64MBwDuYGU2EY53LwiP7MxOZGE46UGtotrSnmarPPZ69l2S/uxdaWA==
   _: 'https://registry.npmjs.org/postcss-normalize-positions/-/postcss-normalize-positions-4.0.1.tgz'
@@ -10517,7 +10174,7 @@ postcss-normalize-positions:
    postcss-value-parser: ^3.0.0
 postcss-normalize-repeat-style:
  _:
-  ^4.0.0: 4.0.1
+  ^4.0.1: 4.0.1
  4.0.1:
   $: sha512-fFHPGIjBUyUiswY2rd9rsFcC0t3oRta4wxE1h3lpwfQZwFeFjXFSiDtdJ7APCmHQOnUZnqYBADNRPKPwFAONgA==
   _: 'https://registry.npmjs.org/postcss-normalize-repeat-style/-/postcss-normalize-repeat-style-4.0.1.tgz'
@@ -10528,7 +10185,7 @@ postcss-normalize-repeat-style:
    postcss-value-parser: ^3.0.0
 postcss-normalize-string:
  _:
-  ^4.0.0: 4.0.1
+  ^4.0.1: 4.0.1
  4.0.1:
   $: sha512-IJoexFTkAvAq5UZVxWXAGE0yLoNN/012v7TQh5nDo6imZJl2Fwgbhy3J2qnIoaDBrtUP0H7JrXlX1jjn2YcvCQ==
   _: 'https://registry.npmjs.org/postcss-normalize-string/-/postcss-normalize-string-4.0.1.tgz'
@@ -10538,7 +10195,7 @@ postcss-normalize-string:
    postcss-value-parser: ^3.0.0
 postcss-normalize-timing-functions:
  _:
-  ^4.0.0: 4.0.1
+  ^4.0.1: 4.0.1
  4.0.1:
   $: sha512-1nOtk7ze36+63ONWD8RCaRDYsnzorrj+Q6fxkQV+mlY5+471Qx9kspqv0O/qQNMeApg8KNrRf496zHwJ3tBZ7w==
   _: 'https://registry.npmjs.org/postcss-normalize-timing-functions/-/postcss-normalize-timing-functions-4.0.1.tgz'
@@ -10548,7 +10205,7 @@ postcss-normalize-timing-functions:
    postcss-value-parser: ^3.0.0
 postcss-normalize-unicode:
  _:
-  ^4.0.0: 4.0.1
+  ^4.0.1: 4.0.1
  4.0.1:
   $: sha512-od18Uq2wCYn+vZ/qCOeutvHjB5jm57ToxRaMeNuf0nWVHaP9Hua56QyMF6fs/4FSUnVIw0CBPsU0K4LnBPwYwg==
   _: 'https://registry.npmjs.org/postcss-normalize-unicode/-/postcss-normalize-unicode-4.0.1.tgz'
@@ -10558,7 +10215,7 @@ postcss-normalize-unicode:
    postcss-value-parser: ^3.0.0
 postcss-normalize-url:
  _:
-  ^4.0.0: 4.0.1
+  ^4.0.1: 4.0.1
  4.0.1:
   $: sha512-p5oVaF4+IHwu7VpMan/SSpmpYxcJMtkGppYf0VbdH5B6hN8YNmVyJLuY9FmLQTzY3fag5ESUUHDqM+heid0UVA==
   _: 'https://registry.npmjs.org/postcss-normalize-url/-/postcss-normalize-url-4.0.1.tgz'
@@ -10569,7 +10226,7 @@ postcss-normalize-url:
    postcss-value-parser: ^3.0.0
 postcss-normalize-whitespace:
  _:
-  ^4.0.0: 4.0.1
+  ^4.0.1: 4.0.1
  4.0.1:
   $: sha512-U8MBODMB2L+nStzOk6VvWWjZgi5kQNShCyjRhMT3s+W9Jw93yIjOnrEkKYD3Ul7ChWbEcjDWmXq0qOL9MIAnAw==
   _: 'https://registry.npmjs.org/postcss-normalize-whitespace/-/postcss-normalize-whitespace-4.0.1.tgz'
@@ -10578,7 +10235,7 @@ postcss-normalize-whitespace:
    postcss-value-parser: ^3.0.0
 postcss-ordered-values:
  _:
-  ^4.0.0: 4.1.1
+  ^4.1.1: 4.1.1
  4.1.1:
   $: sha512-PeJiLgJWPzkVF8JuKSBcylaU+hDJ/TX3zqAMIjlghgn1JBi6QwQaDZoDIlqWRcCAI8SxKrt3FCPSRmOgKRB97Q==
   _: 'https://registry.npmjs.org/postcss-ordered-values/-/postcss-ordered-values-4.1.1.tgz'
@@ -10662,7 +10319,7 @@ postcss-pseudo-class-any-link:
    postcss-selector-parser: ^4.0.0
 postcss-reduce-initial:
  _:
-  ^4.0.0: 4.0.2
+  ^4.0.2: 4.0.2
  4.0.2:
   $: sha512-epUiC39NonKUKG+P3eAOKKZtm5OtAtQJL7Ye0CBN1f+UQTHzqotudp+hki7zxXm7tT0ZAKDMBj1uihpPjP25ug==
   _: 'https://registry.npmjs.org/postcss-reduce-initial/-/postcss-reduce-initial-4.0.2.tgz'
@@ -10673,7 +10330,7 @@ postcss-reduce-initial:
    postcss: ^7.0.0
 postcss-reduce-transforms:
  _:
-  ^4.0.0: 4.0.1
+  ^4.0.1: 4.0.1
  4.0.1:
   $: sha512-sZVr3QlGs0pjh6JAIe6DzWvBaqYw05V1t3d9Tp+VnFRT5j+rsqoWsysh/iSD7YNsULjq9IAylCznIwVd5oU/zA==
   _: 'https://registry.npmjs.org/postcss-reduce-transforms/-/postcss-reduce-transforms-4.0.1.tgz'
@@ -10744,18 +10401,18 @@ postcss-selector-parser:
    uniq: ^1.0.1
 postcss-svgo:
  _:
-  ^4.0.0: 4.0.0
- 4.0.0:
-  $: sha1-wLutAlIPxjbJ14sOhAPi5RXDIoU=
-  _: 'https://registry.npmjs.org/postcss-svgo/-/postcss-svgo-4.0.0.tgz'
+  ^4.0.1: 4.0.1
+ 4.0.1:
+  $: sha512-YD5uIk5NDRySy0hcI+ZJHwqemv2WiqqzDgtvgMzO8EGSkK5aONyX8HMVFRFJSdO8wUWTuisUFn/d7yRRbBr5Qw==
+  _: 'https://registry.npmjs.org/postcss-svgo/-/postcss-svgo-4.0.1.tgz'
   dependencies:
    is-svg: ^3.0.0
-   postcss: ^6.0.0
+   postcss: ^7.0.0
    postcss-value-parser: ^3.0.0
    svgo: ^1.0.0
 postcss-unique-selectors:
  _:
-  ^4.0.0: 4.0.1
+  ^4.0.1: 4.0.1
  4.0.1:
   $: sha512-+JanVaryLo9QwZjKrmJgkI4Fn8SBgRO6WXQBJi7KiAVPlmxikB5Jzc4EvXMT2H0/m0RjrVVm9rGNhZddm/8Spg==
   _: 'https://registry.npmjs.org/postcss-unique-selectors/-/postcss-unique-selectors-4.0.1.tgz'
@@ -10873,22 +10530,13 @@ prompts:
    sisteransi: ^0.1.1
 prop-types:
  _:
-  '^15.5.10,^15.5.4,^15.5.6,^15.6.0,^15.6.1,^15.6.2': 15.6.2
+  '^15.5.10,^15.5.6,^15.6.0,^15.6.1,^15.6.2': 15.6.2
  15.6.2:
   $: sha512-3pboPvLiWD7dkI3qf3KbUe6hKFKa52w+AE0VCqECtf+QHAKgOL37tTaNCnuX1nAAQ4ZhyP+kYVKf8rLmJ/feDQ==
   _: 'https://registry.npmjs.org/prop-types/-/prop-types-15.6.2.tgz'
   dependencies:
    loose-envify: ^1.3.1
    object-assign: ^4.1.1
-proxy-addr:
- _:
-  ~2.0.3: 2.0.4
- 2.0.4:
-  $: sha512-5erio2h9jp5CHGwcybmxmVqHmnCBZeewlfJ0pex+UW7Qny7OOZXTtH56TGNyBizkgiOwhJtMKrVzDTeKcySZwA==
-  _: 'https://registry.npmjs.org/proxy-addr/-/proxy-addr-2.0.4.tgz'
-  dependencies:
-   forwarded: ~0.1.2
-   ipaddr.js: 1.8.0
 prr:
  _:
   ~1.0.1: 1.0.1
@@ -10938,6 +10586,13 @@ public-encrypt:
 pump:
  _:
   '^2.0.0,^2.0.1': 2.0.1
+  ^3.0.0: 3.0.0
+ 3.0.0:
+  $: sha512-LwZy+p3SFs1Pytd/jYct4wpv49HiYCqd9Rlc5ZVdk0V+8Yzv6jR5Blk3TRmPL1ft69TxP0IMZGJ+WPFU2BFhww==
+  _: 'https://registry.npmjs.org/pump/-/pump-3.0.0.tgz'
+  dependencies:
+   end-of-stream: ^1.1.0
+   once: ^1.3.1
  2.0.1:
   $: sha512-ruPMNRkN3MHP1cWJc9OWr+T/xDP0jhXYCLfJcBuX54hhfIBnaQmAUMfDcG4DM5UMWByBbJY69QSphm3jtDKIkA==
   _: 'https://registry.npmjs.org/pump/-/pump-2.0.1.tgz'
@@ -10982,14 +10637,10 @@ qjobs:
   _: 'https://registry.npmjs.org/qjobs/-/qjobs-1.2.0.tgz'
 qs:
  _:
-  '6.5.1,~6.5.1': 6.5.1
-  ~6.5.2: 6.5.2
+  '6.5.2,~6.5.1,~6.5.2': 6.5.2
  6.5.2:
   $: sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
   _: 'https://registry.npmjs.org/qs/-/qs-6.5.2.tgz'
- 6.5.1:
-  $: sha512-eRzhrN1WSINYCDCbrz796z37LOe3m5tmW7RQf6oBntukAG1nmovJvhnwHHRMAfeoItc1m2Hk02WER2aQ/iqs+A==
-  _: 'https://registry.npmjs.org/qs/-/qs-6.5.1.tgz'
 querystring:
  _:
   '0.2.0,^0.2.0': 0.2.0
@@ -11002,12 +10653,6 @@ querystring-es3:
  0.2.1:
   $: sha1-nsYfeQSYdXB9aUFFlv2Qek1xHnM=
   _: 'https://registry.npmjs.org/querystring-es3/-/querystring-es3-0.2.1.tgz'
-querystringify:
- _:
-  ^2.0.0: 2.0.0
- 2.0.0:
-  $: sha512-eTPo5t/4bgaMNZxyjWx6N2a6AuE0mq51KWvpc7nU/MAqixcI6v6KrGUKES0HaomdnolQBBXU/++X6/QQ9KL4tw==
-  _: 'https://registry.npmjs.org/querystringify/-/querystringify-2.0.0.tgz'
 raf:
  _:
   ^3.4.0: 3.4.0
@@ -11060,20 +10705,20 @@ randomfill:
    safe-buffer: ^5.1.0
 range-parser:
  _:
-  '^1.0.3,^1.2.0,~1.2.0': 1.2.0
+  '^1.0.3,^1.2.0': 1.2.0
  1.2.0:
   $: sha1-9JvmtIeJTdxA3MlKMi9hEJLgDV4=
   _: 'https://registry.npmjs.org/range-parser/-/range-parser-1.2.0.tgz'
 raw-body:
  _:
-  2.3.2: 2.3.2
- 2.3.2:
-  $: sha1-vNYMd9Prk83gBQKVw/N5OJvIj4k=
-  _: 'https://registry.npmjs.org/raw-body/-/raw-body-2.3.2.tgz'
+  2.3.3: 2.3.3
+ 2.3.3:
+  $: sha512-9esiElv1BrZoI3rCDuOuKCBRbuApGGaDPQfjSflGxdy4oyzqghxu6klEkkVIvBje+FF0BX9coEv8KqW6X/7njw==
+  _: 'https://registry.npmjs.org/raw-body/-/raw-body-2.3.3.tgz'
   dependencies:
    bytes: 3.0.0
-   http-errors: 1.6.2
-   iconv-lite: 0.4.19
+   http-errors: 1.6.3
+   iconv-lite: 0.4.23
    unpipe: 1.0.0
 raw-loader:
  _:
@@ -11103,12 +10748,6 @@ react:
    object-assign: ^4.1.1
    prop-types: ^15.6.2
    schedule: ^0.5.0
-react-deep-force-update:
- _:
-  ^2.1.1: 2.1.3
- 2.1.3:
-  $: sha512-lqD4eHKVuB65RyO/hGbEST53E2/GPbcIPcFYyeW/p4vNngtH4G7jnKGlU6u1OqrFo0uNfIvwuBOg98IbLHlNEA==
-  _: 'https://registry.npmjs.org/react-deep-force-update/-/react-deep-force-update-2.1.3.tgz'
 react-dom:
  _:
   ^16.0.0: 16.5.2
@@ -11122,24 +10761,12 @@ react-dom:
    schedule: ^0.5.0
   peerDependencies:
    react: ^16.0.0
-react-hot-loader:
- _:
-  ^3.1.3: 3.1.3
- 3.1.3:
-  $: sha512-d7nZf78irxoGN5PY4zd6CSgZiroOhvIWzRast3qwTn4sSnBwlt08kV8WMQ9mitmxEdlCTwZt+5ClrRSjxWguMQ==
-  _: 'https://registry.npmjs.org/react-hot-loader/-/react-hot-loader-3.1.3.tgz'
-  dependencies:
-   global: ^4.3.0
-   react-deep-force-update: ^2.1.1
-   react-proxy: ^3.0.0-alpha.0
-   redbox-react: ^1.3.6
-   source-map: ^0.6.1
 react-intl:
  _:
-  ^2.1.0: 2.6.0
- 2.6.0:
-  $: sha512-Qw/0tLjcDb51I/c+loUP5fwRvk35VTNTneU/lZECMztCyYjDCVWg45rddnnJnu2GEHBBDBLaSrX5dpevLeMqFw==
-  _: 'https://registry.npmjs.org/react-intl/-/react-intl-2.6.0.tgz'
+  ^2.1.0: 2.7.0
+ 2.7.0:
+  $: sha512-H7Exnn+PwHCe4YlwBTSpfkSFb8+ex346b6NVaKtAXvTJr1Xnq2HvsEPpLjLfwBdt3/SS9dq4oAkY9/0g8Kj+ug==
+  _: 'https://registry.npmjs.org/react-intl/-/react-intl-2.7.0.tgz'
   dependencies:
    hoist-non-react-statics: ^2.5.5
    intl-format-cache: ^2.0.5
@@ -11155,14 +10782,6 @@ react-is:
  16.5.2:
   $: sha512-hSl7E6l25GTjNEZATqZIuWOgSnpXb3kD0DVCujmg46K5zLxsbiKaaT6VO9slkSBDPZfYs30lwfJwbOFOnoEnKQ==
   _: 'https://registry.npmjs.org/react-is/-/react-is-16.5.2.tgz'
-react-proxy:
- _:
-  ^3.0.0-alpha.0: 3.0.0-alpha.1
- 3.0.0-alpha.1:
-  $: sha1-RABCa8+oDKpnJMd1VpUxUgn6Swc=
-  _: 'https://registry.npmjs.org/react-proxy/-/react-proxy-3.0.0-alpha.1.tgz'
-  dependencies:
-   lodash: ^4.6.1
 react-redux:
  _:
   '^4.4.5 || ^5.x.x': 5.0.7
@@ -11269,7 +10888,7 @@ read-pkg-up:
    read-pkg: ^1.0.0
 readable-stream:
  _:
-  '1 || 2,^2.0.0,^2.0.1,^2.0.2,^2.0.4,^2.0.6,^2.1.5,^2.2.2,^2.2.9,^2.3.3,^2.3.6': 2.3.6
+  '1 || 2,^2.0.0,^2.0.1,^2.0.2,^2.0.4,^2.0.6,^2.1.5,^2.2.2,^2.3.3,^2.3.6': 2.3.6
   '1.1': 1.1.14
   ~1.0.2: 1.0.34
   ~2.1.5: 2.1.5
@@ -11329,20 +10948,6 @@ realpath-native:
   _: 'https://registry.npmjs.org/realpath-native/-/realpath-native-1.0.2.tgz'
   dependencies:
    util.promisify: ^1.0.0
-redbox-react:
- _:
-  ^1.3.6: 1.6.0
- 1.6.0:
-  $: sha512-mLjM5eYR41yOp5YKHpd3syFeGq6B4Wj5vZr64nbLvTZW5ZLff4LYk7VE4ITpVxkZpCY6OZuqh0HiP3A3uEaCpg==
-  _: 'https://registry.npmjs.org/redbox-react/-/redbox-react-1.6.0.tgz'
-  dependencies:
-   error-stack-parser: ^1.3.6
-   object-assign: ^4.0.1
-   prop-types: ^15.5.4
-   sourcemapped-stacktrace: ^1.1.6
-  peerDependencies:
-   react: '^0.14.0 || ^15.0.0 || ^16.0.0-beta || ^16.0.0'
-   react-dom: '^0.14.0 || ^15.0.0 || ^16.0.0-beta || ^16.0.0'
 redent:
  _:
   ^1.0.0: 1.0.0
@@ -11777,14 +11382,10 @@ rx-lite-aggregates:
    rx-lite: '*'
 safe-buffer:
  _:
-  5.1.1: 5.1.1
-  '5.1.2,^5.0.1,^5.1.0,^5.1.1,^5.1.2,~5.1.0,~5.1.1': 5.1.2
+  '^5.0.1,^5.1.0,^5.1.1,^5.1.2,~5.1.0,~5.1.1': 5.1.2
  5.1.2:
   $: sha512-Gd2UZBJDkXlY7GbJxfsE8/nvKkUEU1G38c1siN6QP6a9PT9MmHB8GnpscSmMJSoF8LOIrt8ud/wPtojys4G6+g==
   _: 'https://registry.npmjs.org/safe-buffer/-/safe-buffer-5.1.2.tgz'
- 5.1.1:
-  $: sha512-kKvNJn6Mm93gAczWVJg7wH+wGYWNrDHdWvpUmHyEsgCtIwwo3bqPtV4tR5tuPaUhTOo/kvhVwd8XwwOllGYkbg==
-  _: 'https://registry.npmjs.org/safe-buffer/-/safe-buffer-5.1.1.tgz'
 safe-regex:
  _:
   ^1.1.0: 1.1.0
@@ -11904,20 +11505,6 @@ seekout:
  1.0.2:
   $: sha1-CbqfG9W0b7sTRxjrGaaDgsuxuck=
   _: 'https://registry.npmjs.org/seekout/-/seekout-1.0.2.tgz'
-select-hose:
- _:
-  ^2.0.0: 2.0.0
- 2.0.0:
-  $: sha1-Yl2GWPhlr0Psliv8N2o3NZpJlMo=
-  _: 'https://registry.npmjs.org/select-hose/-/select-hose-2.0.0.tgz'
-selfsigned:
- _:
-  ^1.9.1: 1.10.3
- 1.10.3:
-  $: sha512-vmZenZ+8Al3NLHkWnhBQ0x6BkML1eCP2xEi3JE+f3D9wW9fipD9NNJHYtE9XJM4TsPaHGZJIamrSI6MTg1dU2Q==
-  _: 'https://registry.npmjs.org/selfsigned/-/selfsigned-1.10.3.tgz'
-  dependencies:
-   node-forge: 0.7.5
 semver:
  _:
   '2 || 3 || 4 || 5,^5.0.1,^5.0.3,^5.1.0,^5.3.0,^5.4.1,^5.5.0': 5.5.1
@@ -11940,57 +11527,12 @@ semver-diff:
   _: 'https://registry.npmjs.org/semver-diff/-/semver-diff-2.1.0.tgz'
   dependencies:
    semver: ^5.0.3
-send:
- _:
-  0.16.2: 0.16.2
- 0.16.2:
-  $: sha512-E64YFPUssFHEFBvpbbjr44NCLtI1AohxQ8ZSiJjQLskAdKuriYEP6VyGEsRDH8ScozGpkaX1BGvhanqCwkcEZw==
-  _: 'https://registry.npmjs.org/send/-/send-0.16.2.tgz'
-  dependencies:
-   debug: 2.6.9
-   depd: ~1.1.2
-   destroy: ~1.0.4
-   encodeurl: ~1.0.2
-   escape-html: ~1.0.3
-   etag: ~1.8.1
-   fresh: 0.5.2
-   http-errors: ~1.6.2
-   mime: 1.4.1
-   ms: 2.0.0
-   on-finished: ~2.3.0
-   range-parser: ~1.2.0
-   statuses: ~1.4.0
 serialize-javascript:
  _:
   ^1.4.0: 1.5.0
  1.5.0:
   $: sha512-Ga8c8NjAAp46Br4+0oZ2WxJCwIzwP60Gq1YPgU+39PiTVxyed/iKE/zyZI6+UlVYH5Q4PaQdHhcegIFPZTUfoQ==
   _: 'https://registry.npmjs.org/serialize-javascript/-/serialize-javascript-1.5.0.tgz'
-serve-index:
- _:
-  ^1.7.2: 1.9.1
- 1.9.1:
-  $: sha1-03aNabHn2C5c4FD/9bRTvqEqkjk=
-  _: 'https://registry.npmjs.org/serve-index/-/serve-index-1.9.1.tgz'
-  dependencies:
-   accepts: ~1.3.4
-   batch: 0.6.1
-   debug: 2.6.9
-   escape-html: ~1.0.3
-   http-errors: ~1.6.2
-   mime-types: ~2.1.17
-   parseurl: ~1.3.2
-serve-static:
- _:
-  1.13.2: 1.13.2
- 1.13.2:
-  $: sha512-p/tdJrO4U387R9oMjb1oj7qSMaMfmOyd4j9hOFoxZe2baQszgHcSWjuya/CiT5kgZZKRudHNOA0pYXOl8rQ5nw==
-  _: 'https://registry.npmjs.org/serve-static/-/serve-static-1.13.2.tgz'
-  dependencies:
-   encodeurl: ~1.0.2
-   escape-html: ~1.0.3
-   parseurl: ~1.3.2
-   send: 0.16.2
 serviceworker-cache-polyfill:
  _:
   ^4.0.0: 4.0.0
@@ -12031,14 +11573,10 @@ setimmediate:
   _: 'https://registry.npmjs.org/setimmediate/-/setimmediate-1.0.5.tgz'
 setprototypeof:
  _:
-  1.0.3: 1.0.3
   1.1.0: 1.1.0
  1.1.0:
   $: sha512-BvE/TwpZX4FXExxOxZyRGQQv651MSwmWKZGqvmPcRIjDqWub67kTKuIMx43cZZrS/cBBzwBcNDWoFxt2XEFIpQ==
   _: 'https://registry.npmjs.org/setprototypeof/-/setprototypeof-1.1.0.tgz'
- 1.0.3:
-  $: sha1-ZlZ+NwQ+608E2RvWWMDL77VbjgQ=
-  _: 'https://registry.npmjs.org/setprototypeof/-/setprototypeof-1.0.3.tgz'
 sha.js:
  _:
   '^2.4.0,^2.4.8': 2.4.11
@@ -12265,28 +11803,6 @@ socket.io-parser:
    json3: 3.3.2
    component-emitter: 1.1.2
    isarray: 0.0.1
-sockjs:
- _:
-  0.3.19: 0.3.19
- 0.3.19:
-  $: sha512-V48klKZl8T6MzatbLlzzRNhMepEys9Y4oGFpypBFFn1gLI/QQ9HtLLyWJNbPlwGLelOVOEijUbTTJeLLI59jLw==
-  _: 'https://registry.npmjs.org/sockjs/-/sockjs-0.3.19.tgz'
-  dependencies:
-   faye-websocket: ^0.10.0
-   uuid: ^3.0.1
-sockjs-client:
- _:
-  1.1.5: 1.1.5
- 1.1.5:
-  $: sha1-G7fA9yIsQPQq3xT0RCy9Eml3GoM=
-  _: 'https://registry.npmjs.org/sockjs-client/-/sockjs-client-1.1.5.tgz'
-  dependencies:
-   debug: ^2.6.6
-   eventsource: 0.1.6
-   faye-websocket: ~0.11.0
-   inherits: ^2.0.1
-   json3: ^3.3.2
-   url-parse: ^1.1.8
 source-list-map:
  _:
   ^2.0.0: 2.0.0
@@ -12297,7 +11813,6 @@ source-map:
  _:
   '0.1.x,^0.1.38': 0.1.43
   '0.4.x,^0.4.2': 0.4.4
-  0.5.6: 0.5.6
   '^0.5.0,^0.5.1,^0.5.3,^0.5.6,^0.5.7': 0.5.7
   '^0.6.0,^0.6.1,~0.6.1': 0.6.1
   ~0.2.0: 0.2.0
@@ -12307,9 +11822,6 @@ source-map:
  0.5.7:
   $: sha1-igOdLRAh0i0eoUyA2OpGi6LvP8w=
   _: 'https://registry.npmjs.org/source-map/-/source-map-0.5.7.tgz'
- 0.5.6:
-  $: sha1-dc449SvwczxafwwRjYEzSiu19BI=
-  _: 'https://registry.npmjs.org/source-map/-/source-map-0.5.6.tgz'
  0.4.4:
   $: sha1-66T12pwNyZneaAMti092FzZSA2s=
   _: 'https://registry.npmjs.org/source-map/-/source-map-0.4.4.tgz'
@@ -12371,20 +11883,12 @@ source-map-url:
  0.3.0:
   $: sha1-fsrxO1e80J2opAxdJp2zN5nUqvk=
   _: 'https://registry.npmjs.org/source-map-url/-/source-map-url-0.3.0.tgz'
-sourcemapped-stacktrace:
- _:
-  ^1.1.6: 1.1.9
- 1.1.9:
-  $: sha512-N6SLOT+9OQZdoSpu1PkSjyrxx/B2SGom9LuxjbwZFNNz7+FpMEUpwb3JV+UpaxWvoGM/8k7guuOJxcB6BWEU9Q==
-  _: 'https://registry.npmjs.org/sourcemapped-stacktrace/-/sourcemapped-stacktrace-1.1.9.tgz'
-  dependencies:
-   source-map: 0.5.6
 spdx-correct:
  _:
-  ^3.0.0: 3.0.0
- 3.0.0:
-  $: sha512-N19o9z5cEyc8yQQPukRCZ9EUmb4HUpnrmaL/fxS2pBo2jbfcFRVuFZ/oFC+vZz0MNNk0h80iMn5/S6qGZOL5+g==
-  _: 'https://registry.npmjs.org/spdx-correct/-/spdx-correct-3.0.0.tgz'
+  ^3.0.0: 3.0.1
+ 3.0.1:
+  $: sha512-hxSPZbRZvSDuOvADntOElzJpenIR7wXJkuoUcUtS0erbgt2fgeaoPIYretfKpslMhfFDY4k0MZ2F5CUzhBsSvQ==
+  _: 'https://registry.npmjs.org/spdx-correct/-/spdx-correct-3.0.1.tgz'
   dependencies:
    spdx-expression-parse: ^3.0.0
    spdx-license-ids: ^3.0.0
@@ -12409,33 +11913,6 @@ spdx-license-ids:
  3.0.1:
   $: sha512-TfOfPcYGBB5sDuPn3deByxPhmfegAhpDYKSOXZQN81Oyrrif8ZCodOLzK3AesELnCx03kikhyDwh0pfvvQvF8w==
   _: 'https://registry.npmjs.org/spdx-license-ids/-/spdx-license-ids-3.0.1.tgz'
-spdy:
- _:
-  ^3.4.1: 3.4.7
- 3.4.7:
-  $: sha1-Qv9B7OXMD5mjpsKKq7c/XDsDrLw=
-  _: 'https://registry.npmjs.org/spdy/-/spdy-3.4.7.tgz'
-  dependencies:
-   debug: ^2.6.8
-   handle-thing: ^1.2.5
-   http-deceiver: ^1.2.7
-   safe-buffer: ^5.0.1
-   select-hose: ^2.0.0
-   spdy-transport: ^2.0.18
-spdy-transport:
- _:
-  ^2.0.18: 2.1.0
- 2.1.0:
-  $: sha512-bpUeGpZcmZ692rrTiqf9/2EUakI6/kXX1Rpe0ib/DyOzbiexVfXkw6GnvI9hVGvIwVaUhkaBojjCZwLNRGQg1g==
-  _: 'https://registry.npmjs.org/spdy-transport/-/spdy-transport-2.1.0.tgz'
-  dependencies:
-   debug: ^2.6.8
-   detect-node: ^2.0.3
-   hpack.js: ^2.1.6
-   obuf: ^1.1.1
-   readable-stream: ^2.2.9
-   safe-buffer: ^5.0.1
-   wbuf: ^1.7.2
 split:
  _:
   ^1.0.1: 1.0.1
@@ -12478,6 +11955,12 @@ sshpk:
 ssri:
  _:
   ^5.2.4: 5.3.0
+  ^6.0.0: 6.0.1
+ 6.0.1:
+  $: sha512-3Wge10hNcT1Kur4PDFwEieXSCMCJs/7WvSACcrMYrNp+b8kDL1/0wJch5Ni2WrtwEa2IO8OsVfeKIciKCDx/QA==
+  _: 'https://registry.npmjs.org/ssri/-/ssri-6.0.1.tgz'
+  dependencies:
+   figgy-pudding: ^3.5.1
  5.3.0:
   $: sha512-XRSIPqLij52MtgoQavH/x/dU1qVKtWUAAZeOHsR9c2Ddi4XerFy3mc1alf+dLJKl9EUIm/Ht+EowFkTUOA6GAQ==
   _: 'https://registry.npmjs.org/ssri/-/ssri-5.3.0.tgz'
@@ -12501,12 +11984,6 @@ stack-utils:
  1.0.1:
   $: sha1-1PM6tU6OOHeLDKXP07OvsS22hiA=
   _: 'https://registry.npmjs.org/stack-utils/-/stack-utils-1.0.1.tgz'
-stackframe:
- _:
-  ^0.3.1: 0.3.1
- 0.3.1:
-  $: sha1-M6qE8Rd6VUjIk1Uzy/6zQgl19aQ=
-  _: 'https://registry.npmjs.org/stackframe/-/stackframe-0.3.1.tgz'
 statehood:
  _:
   ^5.0.3: 5.0.3
@@ -12531,7 +12008,7 @@ static-extend:
    object-copy: ^0.1.0
 statuses:
  _:
-  '>= 1.3.1 < 2,>= 1.4.0 < 2,~1.4.0': 1.4.0
+  '>= 1.4.0 < 2,~1.4.0': 1.4.0
   ~1.3.1: 1.3.1
  1.4.0:
   $: sha512-zhSCtt8v2NDrRlPQpCNtw/heZLtfUDqxBM1udqikb/Hbk52LK4nQSwr10u77iopCW5LsyHpuXS0GnEc48mLeew==
@@ -12768,10 +12245,10 @@ stylus:
    source-map: 0.1.x
 stylus-relative-loader:
  _:
-  ^3.4.0: 3.4.0
- 3.4.0:
-  $: sha1-D1p09UMHPOdcF+AemRoQeGTLReI=
-  _: 'https://registry.npmjs.org/stylus-relative-loader/-/stylus-relative-loader-3.4.0.tgz'
+  ../../../stylus-relative-loader: 3.4.0-fynlocal_h
+ 3.4.0-fynlocal_h:
+  $: local
+  _: ../../stylus-relative-loader
   dependencies:
    debug: ^2.2.0
    es6-promise: ^3.2.1
@@ -12855,7 +12332,7 @@ svgo:
    util.promisify: ~1.0.0
 sw-precache:
  _:
-  ^5.0.0: 5.2.1
+  '^5.0.0,^5.2.1': 5.2.1
  5.2.1:
   $: sha512-8FAy+BP/FXE+ILfiVTt+GQJ6UEf4CVHD9OfhzH0JX+3zoy2uFk7Vn9EfXASOtVmmIVbL3jE/W8Z66VgPSZcMhw==
   _: 'https://registry.npmjs.org/sw-precache/-/sw-precache-5.2.1.tgz'
@@ -12870,6 +12347,18 @@ sw-precache:
    pretty-bytes: ^4.0.2
    sw-toolbox: ^3.4.0
    update-notifier: ^2.3.0
+sw-precache-webpack-plugin:
+ _:
+  ^0.11.5: 0.11.5
+ 0.11.5:
+  $: sha512-K6E52DbYyzGNXGyv2LhI2Duomr3t/2FFMmnGdHZ1Ruk3ulFHDMASJtg3WpA3CXlWODZx189tTaOIO5mWkSKyVg==
+  _: 'http://registry.npmjs.org/sw-precache-webpack-plugin/-/sw-precache-webpack-plugin-0.11.5.tgz'
+  dependencies:
+   del: ^3.0.0
+   sw-precache: ^5.2.1
+   uglify-es: ^3.3.9
+  peerDependencies:
+   webpack: '^1 || ^2 || ^2.1.0-beta || ^2.2.0-beta || ^3 || ^4'
 sw-toolbox:
  _:
   ^3.4.0: 3.6.0
@@ -12945,7 +12434,8 @@ text-encoding:
   ^0.6.4: 0.6.4
  0.6.4:
   $: sha1-45mpgiV6J22uQou5KEXLcb3CbRk=
-  _: 'https://registry.npmjs.org/text-encoding/-/text-encoding-0.6.4.tgz'
+  _: 'http://registry.npmjs.org/text-encoding/-/text-encoding-0.6.4.tgz'
+  deprecated: 'no longer maintained'
 text-table:
  _:
   ~0.2.0: 0.2.0
@@ -12979,12 +12469,12 @@ through2:
   dependencies:
    readable-stream: ^2.1.5
    xtend: ~4.0.1
-thunky:
+time-stamp:
  _:
-  ^1.0.2: 1.0.2
- 1.0.2:
-  $: sha1-qGLgGOP7HqLsP85dVWBc9X8kc3E=
-  _: 'https://registry.npmjs.org/thunky/-/thunky-1.0.2.tgz'
+  ^2.0.0: 2.1.0
+ 2.1.0:
+  $: sha512-lJbq6KsFhZJtN3fPUVje1tq/hHsJOKUUcUj/MGCiQR6qWBDcyi5kxL9J7/RnaEChCn0+L/DUN2WvemDrkk4i3Q==
+  _: 'https://registry.npmjs.org/time-stamp/-/time-stamp-2.1.0.tgz'
 timed-out:
  _:
   ^4.0.0: 4.0.1
@@ -13212,7 +12702,7 @@ type-detect:
   _: 'https://registry.npmjs.org/type-detect/-/type-detect-4.0.8.tgz'
 type-is:
  _:
-  '~1.6.15,~1.6.16': 1.6.16
+  ~1.6.16: 1.6.16
  1.6.16:
   $: sha512-HRkVv/5qY2G6I8iab9cI7v1bOIdhm94dVjQCPFElW9W+3GeDOSHmy2EBYe4VTApuzolPcmgFTN3ftVJRKR2J9Q==
   _: 'https://registry.npmjs.org/type-is/-/type-is-1.6.16.tgz'
@@ -13227,7 +12717,7 @@ typedarray:
   _: 'https://registry.npmjs.org/typedarray/-/typedarray-0.0.6.tgz'
 uglify-es:
  _:
-  ^3.3.4: 3.3.10
+  '^3.3.4,^3.3.9': 3.3.10
  3.3.10:
   $: sha512-rPzPisCzW68Okj1zNrfa2dR9uEm43SevDmpR6FChoZABFk9dANGnzzBMgHYUXI3609//63fnVkyQ1SQmAMyjww==
   _: 'https://registry.npmjs.org/uglify-es/-/uglify-es-3.3.10.tgz'
@@ -13236,7 +12726,7 @@ uglify-es:
    source-map: ~0.6.1
 uglify-js:
  _:
-  '^3.1.4,^3.4.9': 3.4.9
+  '^3.0.0,^3.1.4': 3.4.9
  3.4.9:
   $: sha512-8CJsbKOtEbnJsTyv6LE6m6ZKniqMiFWmm9sRbopbkGs3gMPPfd3Fh8iIA4Ykv5MgaTbqHr4BaoGLJLZNhsrW1Q==
   _: 'https://registry.npmjs.org/uglify-js/-/uglify-js-3.4.9.tgz'
@@ -13245,7 +12735,22 @@ uglify-js:
    source-map: ~0.6.1
 uglifyjs-webpack-plugin:
  _:
-  '^1.2.4,^1.3.0': 1.3.0
+  ^1.2.4: 1.3.0
+  ^2.0.1: 2.0.1
+ 2.0.1:
+  $: sha512-1HhCHkOB6wRCcv7htcz1QRPVbWPEY074RP9vzt/X0LF4xXm9l4YGd0qja7z88abDixQlnVwBjXsTBs+Xsn/eeQ==
+  _: 'https://registry.npmjs.org/uglifyjs-webpack-plugin/-/uglifyjs-webpack-plugin-2.0.1.tgz'
+  dependencies:
+   cacache: ^11.2.0
+   find-cache-dir: ^2.0.0
+   schema-utils: ^1.0.0
+   serialize-javascript: ^1.4.0
+   source-map: ^0.6.1
+   uglify-js: ^3.0.0
+   webpack-sources: ^1.1.0
+   worker-farm: ^1.5.2
+  peerDependencies:
+   webpack: ^4.3.0
  1.3.0:
   $: sha512-ovHIch0AMlxjD/97j9AYovZxG5wnHOPkL7T1GKochBADp/Zwc44pEWNqpKl1Loupp1WhFg7SlYmHZRUfdAacgw==
   _: 'https://registry.npmjs.org/uglifyjs-webpack-plugin/-/uglifyjs-webpack-plugin-1.3.0.tgz'
@@ -13456,15 +12961,6 @@ url-loader:
    schema-utils: ^0.3.0
   peerDependencies:
    file-loader: '*'
-url-parse:
- _:
-  '^1.1.8,^1.4.3': 1.4.3
- 1.4.3:
-  $: sha512-rh+KuAW36YKo0vClhQzLLveoj8FwPJNu65xLb7Mrt+eZht0IPT0IXgSv8gcMegZ6NvjJUALf6Mf25POlMwD1Fw==
-  _: 'https://registry.npmjs.org/url-parse/-/url-parse-1.4.3.tgz'
-  dependencies:
-   querystringify: ^2.0.0
-   requires-port: ^1.0.0
 url-parse-lax:
  _:
   ^1.0.0: 1.0.0
@@ -13551,7 +13047,7 @@ utils-merge:
   _: 'https://registry.npmjs.org/utils-merge/-/utils-merge-1.0.1.tgz'
 uuid:
  _:
-  '^3.0.1,^3.1.0,^3.3.2': 3.3.2
+  '^3.1.0,^3.3.2': 3.3.2
  3.3.2:
   $: sha512-yXJmeNaw3DnnKAOKJE51sL/ZaYfWJRl1pK9dr19YFCu0ObS231AB1/LbqTKRAQ5kw8A90rA6fr4riOUpTZvQZA==
   _: 'https://registry.npmjs.org/uuid/-/uuid-3.3.2.tgz'
@@ -13584,12 +13080,6 @@ value-equal:
  0.4.0:
   $: sha512-x+cYdNnaA3CxvMaTX0INdTCN8m8aF2uY9BvEqmxuYp8bL09cs/kWVQPVGcA35fMktdOsP69IgU7wFj/61dJHEw==
   _: 'https://registry.npmjs.org/value-equal/-/value-equal-0.4.0.tgz'
-vary:
- _:
-  ~1.1.2: 1.1.2
- 1.1.2:
-  $: sha1-IpnwLG3tMNSllhsLn3RSShj2NPw=
-  _: 'https://registry.npmjs.org/vary/-/vary-1.1.2.tgz'
 vendors:
  _:
   ^1.0.0: 1.0.2
@@ -13687,14 +13177,6 @@ watchpack:
    chokidar: ^2.0.2
    graceful-fs: ^4.1.2
    neo-async: ^2.5.0
-wbuf:
- _:
-  '^1.1.0,^1.7.2': 1.7.3
- 1.7.3:
-  $: sha512-O84QOnr0icsbFGLS0O3bI5FswxzRr8/gHwWkDlQFskhSPryQXvrTMxjxGP4+iWYoauLoBvfDpkrOauZ+0iZpDA==
-  _: 'https://registry.npmjs.org/wbuf/-/wbuf-1.7.3.tgz'
-  dependencies:
-   minimalistic-assert: ^1.0.0
 web-app-manifest-loader:
  _:
   ^0.1.1: 0.1.1
@@ -13712,15 +13194,15 @@ webidl-conversions:
   _: 'https://registry.npmjs.org/webidl-conversions/-/webidl-conversions-4.0.2.tgz'
 webpack:
  _:
-  ^4.0.0: 4.19.1
- 4.19.1:
-  $: sha512-j7Q/5QqZRqIFXJvC0E59ipLV5Hf6lAnS3ezC3I4HMUybwEDikQBVad5d+IpPtmaQPQArvgUZLXIN6lWijHBn4g==
-  _: 'https://registry.npmjs.org/webpack/-/webpack-4.19.1.tgz'
+  ^4.19.1: 4.20.2
+ 4.20.2:
+  $: sha512-75WFUMblcWYcocjSLlXCb71QuGyH7egdBZu50FtBGl2Nso8CK3Ej+J7bTZz2FPFq5l6fzCisD9modB7t30ikuA==
+  _: 'https://registry.npmjs.org/webpack/-/webpack-4.20.2.tgz'
   dependencies:
-   '@webassemblyjs/ast': 1.7.6
-   '@webassemblyjs/helper-module-context': 1.7.6
-   '@webassemblyjs/wasm-edit': 1.7.6
-   '@webassemblyjs/wasm-parser': 1.7.6
+   '@webassemblyjs/ast': 1.7.8
+   '@webassemblyjs/helper-module-context': 1.7.8
+   '@webassemblyjs/wasm-edit': 1.7.8
+   '@webassemblyjs/wasm-parser': 1.7.8
    acorn: ^5.6.2
    acorn-dynamic-import: ^3.0.0
    ajv: ^6.1.0
@@ -13740,10 +13222,10 @@ webpack:
    tapable: ^1.1.0
    uglifyjs-webpack-plugin: ^1.2.4
    watchpack: ^1.5.0
-   webpack-sources: ^1.2.0
+   webpack-sources: ^1.3.0
 webpack-cli:
  _:
-  ^3.1.0: 3.1.1
+  ^3.1.1: 3.1.1
  3.1.1:
   $: sha512-th5EUyVeGcAAVlFOcJg11fapD/xoLRE4j/eSfrmMAo3olPjvB7lgEPUtCbRP0OGmstvnQBl4VZP+zluXWDiBxg==
   _: 'https://registry.npmjs.org/webpack-cli/-/webpack-cli-3.1.1.tgz'
@@ -13770,7 +13252,8 @@ webpack-config-composer:
    lodash: ^4.13.1
 webpack-dev-middleware:
  _:
-  '3.4.0,^3.2.0': 3.4.0
+  ^1.12.0: 1.12.2
+  ^3.2.0: 3.4.0
  3.4.0:
   $: sha512-Q9Iyc0X9dP9bAsYskAVJ/hmIZZQwf/3Sy4xCAZgL5cUkjZmUZLt4l5HpbST/Pdgjn3u6pE7u5OdGd1apgzRujA==
   _: 'https://registry.npmjs.org/webpack-dev-middleware/-/webpack-dev-middleware-3.4.0.tgz'
@@ -13781,43 +13264,17 @@ webpack-dev-middleware:
    webpack-log: ^2.0.0
   peerDependencies:
    webpack: ^4.0.0
-webpack-dev-server:
- _:
-  ^3.0.0: 3.1.9
- 3.1.9:
-  $: sha512-fqPkuNalLuc/hRC2QMkVYJkgNmRvxZQo7ykA2e1XRg/tMJm3qY7ZaD6d89/Fqjxtj9bOrn5wZzLD2n84lJdvWg==
-  _: 'https://registry.npmjs.org/webpack-dev-server/-/webpack-dev-server-3.1.9.tgz'
+ 1.12.2:
+  $: sha512-FCrqPy1yy/sN6U/SaEZcHKRXGlqU0DUaEBL45jkUYoB8foVb6wCnbIJ1HKIx+qUFTW+3JpVcCJCxZ8VATL4e+A==
+  _: 'https://registry.npmjs.org/webpack-dev-middleware/-/webpack-dev-middleware-1.12.2.tgz'
   dependencies:
-   ansi-html: 0.0.7
-   bonjour: ^3.5.0
-   chokidar: ^2.0.0
-   compression: ^1.5.2
-   connect-history-api-fallback: ^1.3.0
-   debug: ^3.1.0
-   del: ^3.0.0
-   express: ^4.16.2
-   html-entities: ^1.2.0
-   http-proxy-middleware: ~0.18.0
-   import-local: ^2.0.0
-   internal-ip: ^3.0.1
-   ip: ^1.1.5
-   killable: ^1.0.0
-   loglevel: ^1.4.1
-   opn: ^5.1.0
-   portfinder: ^1.0.9
-   schema-utils: ^1.0.0
-   selfsigned: ^1.9.1
-   serve-index: ^1.7.2
-   sockjs: 0.3.19
-   sockjs-client: 1.1.5
-   spdy: ^3.4.1
-   strip-ansi: ^3.0.0
-   supports-color: ^5.1.0
-   webpack-dev-middleware: 3.4.0
-   webpack-log: ^2.0.0
-   yargs: 12.0.2
+   memory-fs: ~0.4.1
+   mime: ^1.5.0
+   path-is-absolute: ^1.0.0
+   range-parser: ^1.0.3
+   time-stamp: ^2.0.0
   peerDependencies:
-   webpack: ^4.0.0
+   webpack: '^1.0.0 || ^2.0.0 || ^3.0.0'
 webpack-disk-plugin:
  _:
   0.0.2: 0.0.2
@@ -13829,7 +13286,7 @@ webpack-disk-plugin:
    fs-extra: ^1.0.0
 webpack-hot-middleware:
  _:
-  ^2.23.1: 2.24.2
+  ^2.22.2: 2.24.2
  2.24.2:
   $: sha512-VsBGNMC5JDnab5hbReMjmIYtnvDMT+odLSP49EbLZHwuAoJJDNOi0YLhTe40vvP7u7Be+Ww1mYHjwwelqdnaKA==
   _: 'https://registry.npmjs.org/webpack-hot-middleware/-/webpack-hot-middleware-2.24.2.tgz'
@@ -13849,7 +13306,7 @@ webpack-log:
    uuid: ^3.3.2
 webpack-sources:
  _:
-  '^1.0.2,^1.1.0,^1.2.0': 1.3.0
+  '^1.1.0,^1.3.0': 1.3.0
  1.3.0:
   $: sha512-OiVgSrbGu7NEnEvQJJgdSFPl2qWKkWq5lHMhgiToIiN9w34EBnjYzSYs+VbL5KoYiLNtFFa7BZIKxRED3I32pA==
   _: 'https://registry.npmjs.org/webpack-sources/-/webpack-sources-1.3.0.tgz'
@@ -13862,21 +13319,6 @@ webpack-stats-plugin:
  0.2.1:
   $: sha512-OYMZLpZrK/qLA79NE4kC4DCt85h/5ipvWJcsefKe9MMw0qU4/ck/IJg+4OmWA+5EfrZZpHXDq92IptfYDWVfkw==
   _: 'https://registry.npmjs.org/webpack-stats-plugin/-/webpack-stats-plugin-0.2.1.tgz'
-websocket-driver:
- _:
-  '>=0.5.1': 0.7.0
- 0.7.0:
-  $: sha1-DK+dLXVdk67gSdS90NP+LMoqJOs=
-  _: 'https://registry.npmjs.org/websocket-driver/-/websocket-driver-0.7.0.tgz'
-  dependencies:
-   http-parser-js: '>=0.4.0'
-   websocket-extensions: '>=0.1.1'
-websocket-extensions:
- _:
-  '>=0.1.1': 0.1.3
- 0.1.3:
-  $: sha512-nqHUnMXmBzT0w570r2JpJxfiSD1IzoI+HGVdd3aZ0yNi3ngvQ4jv1dtHt5VGxfI2yj5yqImPhOK4vmIh2xMbGg==
-  _: 'https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.3.tgz'
 whatwg-encoding:
  _:
   '^1.0.1,^1.0.3': 1.0.4
@@ -14178,8 +13620,8 @@ yallist:
   _: 'https://registry.npmjs.org/yallist/-/yallist-2.1.2.tgz'
 yargs:
  _:
-  '12.0.2,^12.0.2': 12.0.2
   ^11.0.0: 11.1.0
+  ^12.0.2: 12.0.2
   ^3.31.0: 3.32.0
   ^4.2.0: 4.8.1
   ^5.0.0: 5.0.0

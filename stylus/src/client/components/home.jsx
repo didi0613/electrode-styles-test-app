@@ -16,7 +16,7 @@
 
 import React from "react";
 import { connect } from "react-redux";
-import "../styles/custom.styl";
+import "../styles/index.styl";
 
 //
 
@@ -50,6 +50,10 @@ class Home extends React.Component {
             <button className={"login-enter"}>Log in </button>
           </div>
         </section>
+
+        <p>A test for stylus-relative-loader: a should be red while b should be green.</p>
+         <p className={"a-color"}>a color</p>
+         <p className={"b-color"}>b color</p>
       </div>
     );
   }
