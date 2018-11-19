@@ -1,5 +1,6 @@
 module.exports = {
   webpack: {
-    cssModuleSupport: true
+    cssModuleSupport: true,
+    enableShortenCSSNames: false
   }
 };
